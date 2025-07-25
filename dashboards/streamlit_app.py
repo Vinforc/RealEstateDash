@@ -21,6 +21,11 @@ tabs = st.tabs(["Overview", "Agent Performance", "Marketing ROI", "Territory Ins
 with tabs[0]:
     st.header("📍 Business Overview")
 
+    st.subheader("Commission Forecast (Under Contract)")
+    under_contract_ids = dotloop[dotloop["deal_status"] == "Under Contract"]["loop_id"]
+    forecast = quickbooks[quickbooks["deal_id"].isin(under_contract_ids)]
+    st.metric("💰 Expected Commission", f"${forecast['net_commission'].sum():,.0f}")
+    
     st.subheader("Pipeline Stage Breakdown")
     stage_counts = fub["stage"].value_counts().reset_index()
     stage_counts.columns = ["stage", "count"]
@@ -30,11 +35,6 @@ with tabs[0]:
         color="stage:N"
     )
     st.altair_chart(chart, use_container_width=True)
-
-    st.subheader("Commission Forecast (Under Contract)")
-    under_contract_ids = dotloop[dotloop["deal_status"] == "Under Contract"]["loop_id"]
-    forecast = quickbooks[quickbooks["deal_id"].isin(under_contract_ids)]
-    st.metric("💰 Expected Commission", f"${forecast['net_commission'].sum():,.0f}")
 
     st.subheader("Agent Leaderboard (Closed Deals)")
     # Merge dotloop + quickbooks
