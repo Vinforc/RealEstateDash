@@ -1,8 +1,9 @@
-
 import streamlit as st
 import pandas as pd
 import altair as alt
 import numpy as np
+import plotly.express as px
+
 
 # Load pre-aggregated analytics CSVs or compute from base CSVs
 fub = pd.read_csv("data/follow_up_boss.csv", parse_dates=["created_at", "last_activity", "last_stage_change", "next_task_due"])
@@ -13,7 +14,9 @@ agents = pd.read_csv("data/agents.csv")
 mls = pd.read_csv("data/mls.csv", parse_dates=["list_date", "close_date"])
 
 st.set_page_config(page_title="Real Estate Performance Dashboard", layout="wide")
-st.title("📊 Real Estate Brokerage Performance")
+
+# Title
+st.title("🏠 Real Estate Analytics Dashboard")
 
 tabs = st.tabs(["Overview", "Agent Performance", "Marketing ROI", "Territory Insights", "Lead Scoring"])
 
@@ -26,7 +29,6 @@ with tabs[0]:
     forecast = quickbooks[quickbooks["deal_id"].isin(under_contract_ids)]
     st.metric("💰 Expected Commission", f"${forecast['net_commission'].sum():,.0f}")
 
-    
     st.subheader("Agent Leaderboard (Closed Deals)")
     # Merge dotloop + quickbooks
     closed_deals = dotloop[dotloop["deal_status"] == "Closed"]
@@ -47,7 +49,6 @@ with tabs[0]:
         use_container_width=True
     )
 
-    
     st.subheader("Pipeline Stage Breakdown")
     stage_counts = fub["stage"].value_counts().reset_index()
     stage_counts.columns = ["stage", "count"]
@@ -57,6 +58,7 @@ with tabs[0]:
         color="stage:N"
     )
     st.altair_chart(chart, use_container_width=True)
+
 
 # ---------- AGENT PERFORMANCE ----------
 with tabs[1]:
@@ -90,6 +92,28 @@ with tabs[2]:
     merged["net_commission"] = merged["closed_deals"] * 5000  # assume $5k per deal
     merged["roi"] = (merged["net_commission"] - merged["ad_spend"]) / merged["ad_spend"]
 
+
+    # 📈 Bubble Chart: ROI vs CPCD
+    st.subheader("📈 ROI vs Cost per Closed Deal (Interactive)")
+    fig = px.scatter(
+        merged,
+        x="cost_per_closed_deal",
+        y="roi",
+        color="platform",
+        size="closed_deals",
+        hover_data=["utm_campaign", "platform", "ad_spend", "closed_deals", "net_commission", "roi"],
+        labels={
+            "cost_per_closed_deal": "Cost per Closed Deal",
+            "roi": "ROI",
+            "platform": "Ad Platform"
+        },
+        title="Campaign ROI by Platform"
+    )
+    fig.update_layout(height=500)
+    st.plotly_chart(fig, use_container_width=True)
+
+
+
     # 📊 Bar chart: CPCD
     st.altair_chart(
         alt.Chart(merged).mark_bar().encode(
@@ -100,18 +124,28 @@ with tabs[2]:
         use_container_width=True
     )
 
-    # 📈 Bubble Chart: ROI vs CPCD
-    st.subheader("ROI vs Cost per Closed Deal")
-    st.altair_chart(
-        alt.Chart(merged).mark_circle(size=120).encode(
-            x=alt.X("cost_per_closed_deal:Q"),
-            y=alt.Y("roi:Q", title="ROI"),
-            size="closed_deals:Q",
-            color="platform:N",
-            tooltip=["utm_campaign", "platform", "ad_spend", "closed_deals", "net_commission", "roi"]
-        ).properties(width=700),
-        use_container_width=True
+    # Compute leads-to-close ratio
+    merged["leads_to_close_ratio"] = merged["closed_deals"] / merged["leads_generated"]
+
+    st.subheader("📈 Leads-to-Close Ratio vs ROI")
+
+    fig_ratio_roi = px.scatter(
+        merged,
+        x="leads_to_close_ratio",
+        y="roi",
+        size="closed_deals",
+        color="platform",  # or "utm_campaign"
+        hover_data=["utm_campaign", "leads_generated", "closed_deals", "roi", "ad_spend", "platform"],
+        labels={
+            "leads_to_close_ratio": "Leads-to-Close Ratio",
+            "roi": "Return on Investment",
+        },
+        title="Campaign Efficiency: Leads-to-Close vs ROI",
+        color_discrete_sequence=px.colors.sequential.Turbo
     )
+
+    fig_ratio_roi.update_layout(height=500)
+    st.plotly_chart(fig_ratio_roi, use_container_width=True)
 
     # 📋 Table view
     st.dataframe(merged[[
@@ -122,25 +156,79 @@ with tabs[2]:
 with tabs[3]:
     st.header("🌍 Territory Insights")
 
+    # city revenue bar chart
     by_city = mls[mls["status"] == "Closed"].groupby("city").agg(
         listings=("mls_id", "count"),
         avg_sale_price=("sale_price", "mean")
     ).reset_index().sort_values(by="listings", ascending=False)
 
-    st.subheader("Top Cities by Closed Listings")
+    st.subheader("Most Expensive Cities by Closed Listings")
     st.altair_chart(
         alt.Chart(by_city).mark_bar().encode(
-            x="listings:Q",
+            x="avg_sale_price:Q",
             y=alt.Y("city:N", sort="-x"),
             color="avg_sale_price:Q"
         ),
         use_container_width=True
     )
-    st.dataframe(by_city)
+    # Use Streamlit columns for side-by-side layout
+    col1, col2 = st.columns([1.3, 1.2])  # Adjust width ratio if needed
+
+    with col1:
+        st.write("📋 Listings Table")
+        st.dataframe(by_city)
+
+    with col2:
+        st.write("📊 Total Listings by City")
+        fig_pie = px.pie(
+            by_city,
+            names="city",
+            values="listings",
+            color_discrete_sequence=px.colors.sequential.Turbo,
+            hole=0.3
+        )
+        st.plotly_chart(fig_pie, use_container_width=True)
+
+
+    # Load city-level summary with lat/lon
+    # City coords for heatmap
+    city_coords = {
+        "Babylon": {"lat": 40.695, "lon": -73.325},
+        "Hempstead": {"lat": 40.706, "lon": -73.626},
+        "Huntington": {"lat": 40.868, "lon": -73.425},
+        "Freeport": {"lat": 40.657, "lon": -73.582},
+        "Brookhaven": {"lat": 40.779, "lon": -72.915},
+        "Islip": {"lat": 40.730, "lon": -73.190},
+        "Smithtown": {"lat": 40.855, "lon": -73.200}
+    }
+
+    by_city = mls[mls["status"] == "Closed"].groupby("city").agg(
+        listings=("mls_id", "count"),
+        avg_sale_price=("sale_price", "mean")
+    ).reset_index().sort_values(by="listings", ascending=False)
+
+    by_city["lat"] = by_city["city"].map(lambda x: city_coords.get(x, {}).get("lat", np.nan))
+    by_city["lon"] = by_city["city"].map(lambda x: city_coords.get(x, {}).get("lon", np.nan))
+
+    st.subheader("📍 Territory Heatmap (Long Island)")
+    fig_map = px.scatter_mapbox(
+        by_city.dropna(subset=["lat", "lon"]),
+        lat="lat",
+        lon="lon",
+        size="listings",
+        color="avg_sale_price",
+        hover_name="city",
+        size_max=42,
+        zoom=9,
+        mapbox_style="open-street-map",  # ← this adds a clear styled background
+        color_continuous_scale = "Turbo"
+    )
+
+    st.plotly_chart(fig_map, use_container_width=True)
 
 # ---------- LEAD SCORING ----------
 with tabs[4]:
-    st.header("🎯 Lead Scoring (Simulated)")
+    st.header("🎯 Lead Scoring Model (Simulated)")
     fub["lead_score"] = pd.Series(np.random.rand(len(fub)))  # simulate 0–1 scores
     top_leads = fub.sort_values("lead_score", ascending=False).head(10)
 
