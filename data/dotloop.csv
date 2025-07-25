@@ -1,0 +1,201 @@
+loop_id,deal_status,property_address,buyer_name,seller_name,listing_price,sale_price,expected_close_date,actual_close_date,created_by_agent,listing_agent_id,buyer_agent_id,commission_structure,documents_signed,compliance_status
+1,Under Contract,"902 Robinson Drive, Johnsonshire, MA 37289",Deborah Butler,Amy Bennett,713000,840161,2025-03-09 07:59:07,2025-03-05 07:59:07,Tamara Davis,2,6,Tiered,No,Pending
+2,Closed,"4580 Philip Common, Richardsburgh, ID 67738",Katie Chapman,Mark Miller,509662,756164,2025-05-14 15:03:44,2025-05-12 15:03:44,Melinda Lowe,3,9,Tiered,Yes,Complete
+3,Pre-Offer,"95429 Daniel Ferry, South Angelborough, DC 03375",Samantha Bennett,Brittney Garcia,637293,531341,2025-04-15 03:00:53,2025-04-10 03:00:53,Roger Davis,10,4,Flat,Yes,Complete
+4,Under Contract,"6737 Holland Rapids Apt. 739, Simpsonhaven, SC 04591",James Howard,Courtney Nguyen,480311,654102,2025-04-08 05:52:18,2025-04-06 05:52:18,Michelle Richardson DVM,9,4,Percentage,No,Complete
+5,Pre-Offer,"217 Peterson Mill Suite 203, Oconnorborough, VA 95544",Kathleen James,Christine Hale,772770,504625,2025-05-18 14:47:34,2025-05-16 14:47:34,Rita Curry,2,4,Tiered,No,Complete
+6,Killed,"01679 Richard Ville Suite 197, Watersmouth, TN 29582",Sarah Sampson,Margaret Johnson,560403,745169,2025-07-26 04:56:27,2025-07-31 04:56:27,Melinda Lowe,1,10,Percentage,No,Pending
+7,Killed,"57988 Frances Corner Apt. 517, Port Jenny, VT 43173",Sarah Hernandez,Melissa Barton,314134,552550,2025-07-21 18:45:42,2025-07-20 18:45:42,Linda Macdonald,6,2,Percentage,Yes,Pending
+8,Closed,"26954 Peterson Spring, Greenview, MA 32190",Margaret Nunez,Debbie Harper,581935,783710,2025-03-01 16:22:33,2025-03-07 16:22:33,Melinda Lowe,2,1,Tiered,Yes,Pending
+9,Closed,"2141 April Locks, North Spencerview, LA 29682",James Thomas,Jonathan Watson,437106,864872,2025-04-27 07:45:19,2025-04-25 07:45:19,Linda Macdonald,3,10,Percentage,Yes,Pending
+10,Closed,"83833 Moore Village, East Sallyfort, MI 74471",Nicholas Gray,Jay Townsend,442672,634397,2025-05-08 02:41:59,2025-05-16 02:41:59,Jeffrey Bass,3,5,Percentage,Yes,Complete
+11,Killed,"76828 Denise Neck, Romeroshire, DE 00932",Linda Hernandez,Megan Pearson,771164,541242,2025-04-10 09:44:16,2025-04-18 09:44:16,Jonathan Stevenson,6,6,Percentage,Yes,Complete
+12,Pre-Offer,"4178 Moore Creek, New Michaelburgh, KY 89290",Lynn Evans,Stephanie Decker,417783,472925,2025-03-24 12:32:06,2025-03-24 12:32:06,Tamara Davis,8,9,Tiered,Yes,Pending
+13,Closed,"96972 Charlotte Lodge Apt. 149, East Daniel, VA 65426",Brianna Bryant,Philip Armstrong,403923,835173,2025-06-17 12:56:52,2025-06-18 12:56:52,Jeffrey Bass,8,2,Flat,Yes,Complete
+14,Under Contract,"1947 Leon Extensions Apt. 106, South Mary, CT 80852",Shawn Ward,Jason Contreras,436653,602481,2025-02-09 01:35:28,2025-02-10 01:35:28,Tamara Davis,9,10,Flat,Yes,Pending
+15,Pre-Offer,"2613 Dennis Drive Apt. 293, East Hannahton, ID 72029",Ashley Holt,Anne Snyder DVM,866349,735335,2025-07-29 08:03:35,2025-07-27 08:03:35,Jonathan Stevenson,1,6,Tiered,Yes,Pending
+16,Under Contract,"159 Donald Burg, South Debrabury, IA 86910",Kristie Vasquez,Brittany Barnes,672453,421664,2025-08-18 04:54:18,2025-08-28 04:54:18,Michelle Richardson DVM,5,8,Tiered,No,Pending
+17,Killed,"390 Christian Avenue Suite 948, South Kimberlymouth, RI 55398",Jesus Simmons,Gina Hoffman,835636,874281,2025-05-13 08:13:58,2025-05-14 08:13:58,Melinda Lowe,4,9,Flat,No,Pending
+18,Killed,"4876 Booth Passage, West Lisa, SD 52672",Anna Velez,Jacqueline Schmidt PhD,667210,597375,2025-06-25 15:45:55,2025-06-25 15:45:55,Jeffrey Bass,10,5,Tiered,No,Pending
+19,Under Contract,"Unit 5944 Box 8556, DPO AA 02123",Norma Green,Diane Alvarez,395084,537362,2025-03-10 13:28:00,2025-03-10 13:28:00,Roger Davis,8,8,Tiered,No,Complete
+20,Killed,"9883 Collier Circles Apt. 557, Josehaven, SD 11963",Omar Padilla,Timothy Miller,769928,591950,2025-08-02 04:51:45,2025-07-29 04:51:45,Linda Macdonald,1,7,Tiered,No,Pending
+21,Closed,"97695 Zhang Prairie Suite 810, East Ericabury, WY 38310",Thomas Jones,Shane Johnston,430224,292615,2025-03-16 22:26:32,2025-03-26 22:26:32,Roger Davis,4,1,Percentage,Yes,Complete
+22,Pre-Offer,"714 Cantu Hills Apt. 543, Angelaberg, MS 72821",Bryan Hernandez,Matthew Fletcher,870069,377629,2025-03-10 08:06:12,2025-03-14 08:06:12,Linda Macdonald,10,9,Tiered,Yes,Complete
+23,Pre-Offer,"168 Kimberly Union Apt. 713, South Zacharytown, PA 92590",Michael Cook,Catherine Fuller,416302,706169,2025-08-21 01:51:12,2025-08-19 01:51:12,Brian Harris,2,3,Percentage,Yes,Complete
+24,Closed,"979 Arthur Circle Apt. 448, South Gina, PA 24597",Chloe Nelson,Jacqueline Coleman,844501,709874,2025-05-19 07:43:48,2025-05-18 07:43:48,Brian Harris,10,6,Tiered,No,Pending
+25,Under Contract,"466 Anderson Spring, West Hannah, SD 60755",Arthur Malone,Anthony Ray,445220,459340,2025-04-25 02:20:04,2025-04-29 02:20:04,Shane Delgado,5,4,Percentage,Yes,Pending
+26,Pre-Offer,"PSC 9362, Box 7774, APO AE 14449",Amanda Adams,Patty King,461496,766345,2025-02-25 12:50:24,2025-03-02 12:50:24,Jonathan Stevenson,10,2,Percentage,Yes,Complete
+27,Pre-Offer,"673 Bryan Shoals, West Jamiefort, NH 79664",Virginia Petty,Charles Baxter,415528,427192,2025-02-20 08:56:23,2025-02-17 08:56:23,Melinda Lowe,7,4,Flat,No,Pending
+28,Closed,"PSC 7377, Box 7973, APO AP 83676",Rita Miller,Bryan Perez,532382,409278,2025-08-02 20:02:20,2025-07-28 20:02:20,Tamara Davis,5,1,Tiered,No,Complete
+29,Under Contract,"38995 Craig Centers, West Carolinehaven, MO 93186",Hannah Johnson,Pamela Palmer,536352,281929,2025-02-09 10:28:08,2025-02-06 10:28:08,Linda Macdonald,1,3,Flat,No,Complete
+30,Killed,"06296 Erika Glens Apt. 218, Samanthamouth, ND 01020",Sarah Rivera,Shannon Burton,259573,545247,2025-04-16 06:10:44,2025-04-20 06:10:44,Michelle Richardson DVM,6,8,Percentage,Yes,Complete
+31,Under Contract,"7340 Paul Track, North Amberside, WA 39916",Samuel Douglas,Alan Snyder MD,634810,631877,2025-08-01 04:36:07,2025-08-03 04:36:07,Jeffrey Bass,3,9,Flat,No,Complete
+32,Under Contract,"578 Tommy Bypass, West Johnstad, NC 94599",Andrea Welch,Robert Williams,600370,570395,2025-07-28 15:28:05,2025-07-31 15:28:05,Melinda Lowe,1,7,Tiered,Yes,Complete
+33,Under Contract,"725 Krista Keys, West Raymond, MO 34442",Matthew Haynes,Stephanie Carter,467708,586151,2025-02-07 14:37:47,2025-02-08 14:37:47,Rita Curry,9,7,Percentage,No,Complete
+34,Killed,"9564 Smith Causeway, Donnafurt, CO 36086",Evelyn Jordan,Christina Brown,282011,432035,2025-04-15 04:44:07,2025-04-25 04:44:07,Jonathan Stevenson,10,7,Flat,Yes,Complete
+35,Closed,"642 Anderson Trail, East Ryan, CA 20458",William Harris,Dawn Warren,352190,534795,2025-04-12 07:55:45,2025-04-21 07:55:45,Michelle Richardson DVM,4,2,Tiered,No,Pending
+36,Killed,"731 Gentry Street, Brownhaven, NV 12488",James Lee,Megan Garcia,688800,887362,2025-04-11 15:31:52,2025-04-17 15:31:52,Shane Delgado,2,4,Percentage,Yes,Pending
+37,Under Contract,"36155 Arnold Parkways Suite 102, Port Shannonburgh, OR 61494",Johnny Long,Jamie Johnson,572393,554303,2025-07-05 14:02:16,2025-07-06 14:02:16,Tamara Davis,8,9,Tiered,No,Pending
+38,Closed,"4967 Robert Trafficway Apt. 227, East Rachel, HI 11696",Duane Park,David Gibson,315238,746402,2025-07-27 21:59:19,2025-07-31 21:59:19,Tamara Davis,2,6,Flat,No,Pending
+39,Pre-Offer,"7302 Mcgrath Vista Suite 650, Port Denise, GA 17746",Jeffrey Willis,Rebecca Graham,548292,391754,2025-08-18 07:03:09,2025-08-20 07:03:09,Melinda Lowe,7,10,Tiered,No,Pending
+40,Under Contract,"53447 Stephanie Throughway, East Kelseyburgh, NC 85541",Rebecca Perry,William Henderson,565105,449315,2025-06-14 15:47:43,2025-06-15 15:47:43,Jeffrey Bass,9,6,Percentage,Yes,Pending
+41,Pre-Offer,"319 King Bypass, Nguyenburgh, NY 68275",David Perry,Matthew Stein,651176,716232,2025-05-22 21:20:12,2025-05-25 21:20:12,Brian Harris,7,5,Flat,No,Complete
+42,Under Contract,"69508 Robert Crossroad, New Kurt, WV 73781",Desiree Little,Gloria Jones,717017,527418,2025-06-29 02:14:08,2025-06-24 02:14:08,Rita Curry,10,3,Tiered,No,Pending
+43,Killed,"00844 Miller Stream Apt. 447, Lake Gregorymouth, MN 05856",David Ortega,Mr. Bradley Villa,717100,674560,2025-04-13 20:56:57,2025-04-08 20:56:57,Michelle Richardson DVM,4,1,Tiered,No,Pending
+44,Under Contract,"9660 Brennan Center Apt. 881, East Catherine, TX 04719",Christine Johnson,Pamela Anderson,744932,424505,2025-06-09 14:00:39,2025-06-17 14:00:39,Roger Davis,2,2,Percentage,Yes,Pending
+45,Under Contract,"6523 Vazquez Light, Port Peterton, WY 78003",Stephanie Hall,Rachel Johnson,426778,687057,2025-06-04 20:11:00,2025-06-02 20:11:00,Jonathan Stevenson,5,10,Tiered,No,Pending
+46,Closed,"PSC 4818, Box 8688, APO AE 72923",Matthew Chavez,Thomas Poole,530016,270520,2025-03-03 21:02:11,2025-03-03 21:02:11,Tamara Davis,4,8,Flat,No,Pending
+47,Under Contract,"0531 Cynthia Ranch Suite 204, Lake Jenniferland, KS 72110",Jack Tucker,Alfred Cook,541233,296142,2025-04-07 09:55:23,2025-04-04 09:55:23,Linda Macdonald,4,4,Flat,Yes,Complete
+48,Under Contract,"664 Hutchinson Terrace, Garciastad, MA 99543",Ian Fry,Cindy Reeves,834669,816093,2025-02-15 03:21:52,2025-02-25 03:21:52,Shane Delgado,2,3,Tiered,No,Complete
+49,Closed,"7424 Maldonado Pike Apt. 163, Pearsonburgh, IN 56470",Lisa Frederick,Paul Jackson,839633,859042,2025-03-22 20:41:29,2025-03-29 20:41:29,Linda Macdonald,2,9,Flat,Yes,Complete
+50,Killed,"8960 Cannon Stravenue, Lake Mary, IL 34045",Stacy Blevins,Eric Crawford,792804,654619,2025-06-29 10:48:39,2025-07-05 10:48:39,Roger Davis,8,6,Tiered,Yes,Pending
+51,Closed,"12795 Linda Hill, South Patricia, WI 52747",Christopher Fisher,Curtis Santana,469180,892288,2025-02-04 09:41:45,2025-02-05 09:41:45,Linda Macdonald,5,10,Percentage,No,Complete
+52,Closed,"90489 Haynes Stream, Smithbury, KY 64723",Edward Wilson,Michael Phillips,677318,573174,2025-02-23 17:31:55,2025-03-03 17:31:55,Linda Macdonald,5,5,Tiered,No,Pending
+53,Pre-Offer,"358 Joshua Lodge, Andrewstad, OH 41326",Brenda Schmitt,Jerry Bowen,544902,900601,2025-06-27 07:05:00,2025-06-30 07:05:00,Tamara Davis,4,8,Flat,No,Complete
+54,Under Contract,"6859 Zamora Harbors Suite 006, Atkinsburgh, TN 80936",Richard Smith,Brittany Duncan,341016,845350,2025-04-19 19:21:55,2025-04-15 19:21:55,Rita Curry,10,1,Flat,No,Complete
+55,Killed,"698 Garcia Orchard Suite 361, Bergberg, AL 15082",Michael Simon,Barry Reyes,594871,775282,2025-05-15 19:06:10,2025-05-11 19:06:10,Brian Harris,9,3,Tiered,No,Complete
+56,Pre-Offer,"652 Marissa Summit, Richardburgh, MI 62564",Matthew Lawrence,Jeremy Owen,629005,667257,2025-06-11 07:17:39,2025-06-09 07:17:39,Shane Delgado,5,2,Percentage,No,Pending
+57,Under Contract,"1704 Frank Lodge, New Larrystad, AZ 90761",Justin Mccormick,Brittney Dudley,489380,899380,2025-07-28 07:48:52,2025-07-25 07:48:52,Michelle Richardson DVM,7,9,Flat,Yes,Complete
+58,Under Contract,"39139 Boyle Knolls, South Yolanda, KY 76209",James Rich,Daniel Williams,349089,740298,2025-03-10 11:52:36,2025-03-16 11:52:36,Brian Harris,9,5,Percentage,No,Pending
+59,Pre-Offer,"9108 William Garden, New James, AR 18689",Tyler Ramirez,Anita Kelly,416517,584848,2025-04-29 07:01:40,2025-04-27 07:01:40,Brian Harris,1,6,Tiered,Yes,Complete
+60,Pre-Offer,"83606 Diane Squares, East Mary, RI 38063",Eric Carter,Carlos Werner,684026,618250,2025-05-17 01:28:08,2025-05-26 01:28:08,Shane Delgado,3,6,Tiered,No,Pending
+61,Under Contract,"34180 Cheryl Route, New Patricia, SD 45329",Richard Brown,Erin Clark,599436,305544,2025-05-10 08:59:45,2025-05-10 08:59:45,Melinda Lowe,7,1,Tiered,No,Pending
+62,Killed,"PSC 2049, Box 2941, APO AE 13478",Jerry Leblanc,Ryan Nunez,465480,317845,2025-02-04 16:45:14,2025-02-08 16:45:14,Jonathan Stevenson,3,10,Flat,Yes,Complete
+63,Closed,"664 Allen Dale Apt. 754, New Jennifer, AK 47151",Jesse Brown,Michael Brooks,374718,872030,2025-05-30 19:26:11,2025-06-09 19:26:11,Michelle Richardson DVM,3,6,Flat,Yes,Pending
+64,Killed,"901 Garcia Junctions, North Marie, NY 55818",Amy Bautista MD,Sarah Phillips,662264,553471,2025-04-19 13:36:11,2025-04-21 13:36:11,Michelle Richardson DVM,5,3,Percentage,No,Complete
+65,Closed,"552 Weeks Orchard Apt. 697, Cliffordview, MA 26595",Brenda Smith,Dylan Thompson,840168,503757,2025-05-26 11:53:03,2025-06-01 11:53:03,Linda Macdonald,5,6,Flat,Yes,Complete
+66,Under Contract,"6469 Lester Roads, Traviston, MT 06390",Amy Barnes,Samantha Fox,252526,292322,2025-06-03 18:29:57,2025-06-10 18:29:57,Tamara Davis,8,7,Tiered,No,Pending
+67,Closed,"8950 Matthew Meadows, Austinberg, MO 91994",Randy Rojas,Renee Sanchez,744864,483889,2025-02-22 04:44:07,2025-02-25 04:44:07,Shane Delgado,1,2,Flat,Yes,Complete
+68,Closed,"7588 Paula Place Apt. 381, Jeffreyview, AL 12843",Jessica Peterson,Dustin Brown,822209,412625,2025-02-03 14:36:53,2025-01-29 14:36:53,Shane Delgado,6,1,Tiered,Yes,Complete
+69,Killed,"73564 Meyer Rapid Apt. 334, Brianbury, IA 37278",Lori Young,Cory Collins,458083,713036,2025-07-02 15:02:30,2025-06-30 15:02:30,Roger Davis,9,2,Percentage,Yes,Complete
+70,Closed,"246 Samantha Estate Apt. 239, New Latoya, NV 95639",Isaac Murphy,Bradley Torres,272037,872866,2025-02-10 02:30:55,2025-02-07 02:30:55,Jeffrey Bass,5,8,Flat,Yes,Pending
+71,Killed,"5899 Ronald Valley, East Meganside, WI 01508",Cynthia Burton,Angela Park,383705,749005,2025-06-22 02:29:52,2025-07-02 02:29:52,Michelle Richardson DVM,3,4,Percentage,No,Complete
+72,Killed,"USCGC Phillips, FPO AE 03053",Madison Walker,Carlos Howell,380370,358032,2025-04-01 15:07:52,2025-04-04 15:07:52,Melinda Lowe,9,9,Tiered,No,Pending
+73,Closed,"91954 Munoz Curve, East Patrick, CO 24530",Tristan Gaines,Lindsey Bauer,621685,383295,2025-03-13 13:57:58,2025-03-22 13:57:58,Brian Harris,1,6,Percentage,No,Complete
+74,Killed,"0464 Andrew Expressway Suite 852, North Angelahaven, OR 33732",Jonathan Brown,Tiffany Hawkins,434379,624236,2025-04-13 08:53:32,2025-04-08 08:53:32,Shane Delgado,4,2,Flat,No,Pending
+75,Pre-Offer,"61998 Walker Trafficway, Port Meghan, ME 70119",Curtis Pollard,Kristina Nguyen,528611,850412,2025-05-07 12:57:53,2025-05-17 12:57:53,Rita Curry,9,8,Tiered,No,Complete
+76,Closed,"56346 Hooper Streets, East Samanthaland, AR 01062",Andre Nunez,Joshua Sosa,626704,462288,2025-02-25 14:10:59,2025-02-23 14:10:59,Jonathan Stevenson,3,4,Percentage,Yes,Complete
+77,Killed,"090 Decker Key, North Philipfurt, OK 04739",Karen Martinez,Alyssa Barnes DDS,539975,361774,2025-05-15 04:38:00,2025-05-15 04:38:00,Roger Davis,7,1,Flat,Yes,Pending
+78,Closed,"42086 William Knoll Suite 480, West Ritaton, CA 78561",Julie Smith,Tiffany Marshall,411052,525809,2025-03-24 10:51:15,2025-03-19 10:51:15,Jeffrey Bass,3,4,Percentage,Yes,Pending
+79,Under Contract,"700 Harris Track, Stephaniestad, ID 19795",Jennifer Acevedo,Erin Johnson,550074,615824,2025-08-19 13:01:27,2025-08-27 13:01:27,Jeffrey Bass,5,1,Flat,No,Complete
+80,Pre-Offer,"539 Martinez Prairie Apt. 577, Timothyport, TN 36313",Chad Swanson,Robert Grimes,805559,651889,2025-05-10 17:41:04,2025-05-13 17:41:04,Melinda Lowe,7,3,Percentage,No,Pending
+81,Killed,"830 Shelley Dale Suite 647, South Matthewville, HI 42585",Jeanette Reed,Bryan Stone,571456,472063,2025-06-14 05:33:12,2025-06-17 05:33:12,Brian Harris,5,7,Flat,Yes,Pending
+82,Killed,"1705 Joseph Ranch, Flemingstad, DE 37262",Andrew Lee,Marissa Vargas,720262,261294,2025-07-03 15:14:41,2025-07-11 15:14:41,Rita Curry,6,3,Flat,Yes,Complete
+83,Closed,"73311 Kristin Lake, Port Kimberly, WY 54250",Courtney Forbes,Jennifer Turner,696702,756808,2025-06-29 11:38:28,2025-07-06 11:38:28,Linda Macdonald,2,4,Percentage,Yes,Complete
+84,Under Contract,"571 Morton Pine, West Doris, NV 84686",Richard Bradford,Elizabeth Benson,791519,620010,2025-02-20 22:28:25,2025-02-19 22:28:25,Roger Davis,8,4,Flat,Yes,Pending
+85,Killed,"840 Amber Centers Apt. 465, South Thomastown, WV 50735",Hector Aguilar,Marissa Valentine,697767,246805,2025-01-31 01:41:39,2025-02-07 01:41:39,Linda Macdonald,10,1,Flat,No,Complete
+86,Closed,"8061 Bailey Corner, Coleborough, ID 87256",Michael Dixon,Kayla Jensen,269736,428886,2025-02-09 23:48:00,2025-02-19 23:48:00,Melinda Lowe,7,7,Flat,Yes,Complete
+87,Pre-Offer,"5144 Bradley Branch Suite 694, Lake Susanton, MI 71157",Mr. Victor Watson,James Wilcox,428629,610799,2025-02-28 02:44:45,2025-03-08 02:44:45,Jonathan Stevenson,2,5,Flat,Yes,Pending
+88,Pre-Offer,"00545 Smith Green Suite 200, Fullerborough, ND 49639",Brian Mccarthy,Jane Arroyo,557674,780389,2025-05-03 09:08:37,2025-05-06 09:08:37,Jeffrey Bass,3,2,Flat,Yes,Complete
+89,Pre-Offer,"80823 Amy Village, South Brandon, IL 14546",Michelle Bryant,Traci Gutierrez,452734,491538,2025-08-17 12:50:28,2025-08-27 12:50:28,Roger Davis,6,2,Percentage,Yes,Pending
+90,Under Contract,"9531 Tiffany Field Apt. 399, Port Juanmouth, ME 67750",David Parker DDS,Jay Miller,863608,554203,2025-05-23 07:51:11,2025-05-29 07:51:11,Melinda Lowe,3,6,Tiered,Yes,Pending
+91,Closed,"0991 Powers Burg, Wolfland, RI 45171",Erika Patton,Michele Nguyen,774183,758521,2025-07-11 14:39:41,2025-07-19 14:39:41,Melinda Lowe,8,3,Tiered,No,Complete
+92,Closed,"977 Garcia Branch Suite 827, East Juantown, KS 17306",Nicholas Garcia,Thomas Flores,844348,657738,2025-04-13 23:00:39,2025-04-16 23:00:39,Jonathan Stevenson,8,2,Tiered,Yes,Complete
+93,Pre-Offer,"30556 Matthews Harbors Apt. 758, West Kristenside, OK 92738",Charles Harrison,Marissa Wong,505167,698012,2025-05-06 11:35:12,2025-05-13 11:35:12,Michelle Richardson DVM,7,1,Tiered,Yes,Pending
+94,Killed,"294 French Via Apt. 467, Deniseburgh, NM 56953",Elizabeth Lewis,Melissa Poole,327158,727586,2025-04-17 15:03:49,2025-04-27 15:03:49,Michelle Richardson DVM,1,7,Flat,Yes,Pending
+95,Closed,"1599 Brown Circle Apt. 967, Port Cynthia, CT 70489",Doris Lawson,Kristin Kennedy,658154,512013,2025-04-13 18:55:09,2025-04-20 18:55:09,Michelle Richardson DVM,7,9,Flat,Yes,Complete
+96,Under Contract,"43439 Ferguson Terrace Apt. 177, Ortegashire, WV 04528",Maria Walker,Antonio Anderson,778643,654448,2025-05-05 19:48:24,2025-04-30 19:48:24,Michelle Richardson DVM,4,5,Tiered,No,Complete
+97,Closed,"0551 Mendoza Falls Apt. 812, Thompsonside, KS 25606",Nancy Oneill,Andrew Luna,344437,643199,2025-06-08 19:10:18,2025-06-08 19:10:18,Linda Macdonald,6,9,Percentage,No,Pending
+98,Pre-Offer,"52052 John Rapid Apt. 304, Powellshire, PA 96041",Stacy Jenkins,Sandra Phillips,854327,242604,2025-03-14 02:36:56,2025-03-14 02:36:56,Jeffrey Bass,5,4,Flat,No,Pending
+99,Under Contract,"USNS Hall, FPO AP 09544",Benjamin Hall,Michael Rangel,409481,292285,2025-06-30 05:10:51,2025-07-01 05:10:51,Rita Curry,2,5,Tiered,Yes,Pending
+100,Closed,"4049 Fisher Key Suite 435, Hornville, AZ 68776",Cynthia Gray,Brian Grimes,881579,521625,2025-08-07 22:42:19,2025-08-04 22:42:19,Brian Harris,9,2,Percentage,Yes,Complete
+101,Killed,"476 Weiss Burgs, South Tiffanystad, NM 49836",James Bradley,Jennifer Valentine,702109,309685,2025-02-12 12:12:02,2025-02-09 12:12:02,Tamara Davis,7,3,Flat,Yes,Pending
+102,Under Contract,"PSC 8836, Box 2288, APO AA 24008",Anthony Meyer,Samuel Valdez,883817,687872,2025-05-08 08:39:48,2025-05-03 08:39:48,Roger Davis,8,7,Flat,No,Pending
+103,Pre-Offer,"31936 Newton Course Suite 467, Lake Michael, AK 48703",Dawn Hall,Michael Ferguson,442110,767069,2025-03-03 23:52:14,2025-03-12 23:52:14,Rita Curry,1,4,Tiered,No,Complete
+104,Under Contract,"631 Dillon Walks, West Julia, RI 62487",Brittany Mitchell,Chad Thompson Jr.,845893,471001,2025-07-05 09:53:46,2025-07-12 09:53:46,Roger Davis,6,2,Percentage,No,Pending
+105,Killed,"6318 Hicks Village, Johnsonmouth, OH 90036",Daniel Koch,Jeffrey Smith,743190,547944,2025-04-03 09:19:52,2025-03-30 09:19:52,Michelle Richardson DVM,8,9,Percentage,No,Pending
+106,Under Contract,"2186 Ortiz Prairie, South Whitneymouth, MN 81620",Rebekah Cruz,Pamela Baker,327945,856100,2025-05-21 10:26:26,2025-05-28 10:26:26,Melinda Lowe,3,5,Tiered,Yes,Complete
+107,Under Contract,"53158 Miguel Overpass Apt. 140, Georgeport, CA 72688",Cassandra Williams,Ian Hopkins,294888,659856,2025-08-19 02:39:13,2025-08-14 02:39:13,Linda Macdonald,6,7,Tiered,No,Complete
+108,Closed,"891 Martin Ridges, Christianfort, WY 16814",Eric Cunningham,Deanna Garza,403357,749063,2025-07-25 07:26:49,2025-07-25 07:26:49,Melinda Lowe,2,8,Tiered,No,Pending
+109,Killed,"780 Short Drive Suite 677, Theresamouth, FL 52081",Leslie Porter,Gina Hernandez,387578,522790,2025-02-03 00:10:38,2025-02-10 00:10:38,Jonathan Stevenson,1,7,Tiered,Yes,Pending
+110,Under Contract,"34901 Kelsey Hills, East Michelle, WA 73311",Robin Brennan,Gregory Bean,607630,563473,2025-02-26 16:39:07,2025-03-05 16:39:07,Jeffrey Bass,7,1,Flat,No,Complete
+111,Killed,"USNS Williams, FPO AE 06686",Donna Mitchell,Sherri Patrick,759057,888256,2025-07-24 09:40:36,2025-07-19 09:40:36,Shane Delgado,2,8,Percentage,Yes,Pending
+112,Pre-Offer,"47674 Kimberly Lock, Penningtonberg, FL 28525",Kelly Hughes,Samantha Moran,280726,266583,2025-07-17 14:05:18,2025-07-25 14:05:18,Tamara Davis,2,3,Flat,No,Pending
+113,Pre-Offer,"859 Deborah Trafficway Suite 824, East Jameshaven, TN 75659",Ryan Holt,Melinda Matthews,739453,566544,2025-08-13 08:09:11,2025-08-21 08:09:11,Brian Harris,9,5,Flat,No,Pending
+114,Pre-Offer,"8772 Michelle Spring, Liushire, UT 14987",Seth Melton,Gabrielle Mason,548018,870447,2025-04-08 14:04:21,2025-04-12 14:04:21,Brian Harris,5,9,Tiered,Yes,Pending
+115,Pre-Offer,"857 Courtney Springs Apt. 057, Kristenfort, VT 85775",Shannon Mooney,John Perez,662937,417711,2025-08-06 08:25:33,2025-08-04 08:25:33,Melinda Lowe,1,7,Flat,Yes,Complete
+116,Killed,"88172 Welch Rue, East Stephanie, DC 79575",Nichole Kemp,Kenneth Martin,883560,415354,2025-07-18 09:21:10,2025-07-20 09:21:10,Shane Delgado,6,6,Percentage,Yes,Pending
+117,Closed,"1654 Mckee Garden, Simonfort, ME 78184",Scott Perez,Richard Wheeler,727725,802517,2025-08-11 11:15:06,2025-08-07 11:15:06,Shane Delgado,10,10,Flat,Yes,Complete
+118,Closed,"001 Robert Street Suite 863, Port Phyllis, HI 23812",Cheryl Moore,Christopher Hudson,640292,614048,2025-06-09 06:47:06,2025-06-06 06:47:06,Jeffrey Bass,8,7,Tiered,Yes,Complete
+119,Killed,"PSC 7357, Box 0755, APO AA 98540",Marcus Davis,Shawn Fernandez,411297,350368,2025-08-01 16:49:38,2025-08-11 16:49:38,Roger Davis,4,9,Tiered,No,Pending
+120,Killed,"81120 Clark Underpass, Carlafort, MD 57041",Mckenzie Jones,Tina Houston,842137,330465,2025-08-08 20:10:43,2025-08-14 20:10:43,Linda Macdonald,4,2,Percentage,Yes,Pending
+121,Closed,"511 Rachel Drives, West Anthonymouth, SC 11113",Jamie Collins,Dawn Young,875453,513814,2025-04-06 06:36:09,2025-04-05 06:36:09,Jonathan Stevenson,2,5,Tiered,Yes,Complete
+122,Under Contract,"59061 Eric Groves, Port Ashley, UT 16389",Hunter Bond,Kent Morgan,430018,255067,2025-06-06 08:48:06,2025-06-13 08:48:06,Melinda Lowe,1,6,Flat,Yes,Complete
+123,Under Contract,"0750 Hart Cliffs Suite 690, West Jilltown, NE 30635",Tracy Turner,Christopher Watson,841282,371756,2025-02-26 18:29:03,2025-02-21 18:29:03,Jeffrey Bass,6,7,Flat,Yes,Complete
+124,Killed,"242 Veronica Field, Mccarthytown, LA 68592",Tammy Kerr,Lindsay Norton,326350,906571,2025-03-06 03:58:12,2025-03-08 03:58:12,Roger Davis,10,9,Tiered,Yes,Complete
+125,Under Contract,"60851 Duran Fall Suite 120, Craigport, MO 99210",Christy Smith,Jasmine Weaver,405394,318856,2025-06-23 01:49:28,2025-06-28 01:49:28,Michelle Richardson DVM,9,6,Tiered,No,Pending
+126,Under Contract,"60547 Rodney Stravenue Apt. 533, Josephborough, GA 25847",James Hall,Jonathan Martinez,440314,518310,2025-02-25 03:34:47,2025-02-21 03:34:47,Linda Macdonald,3,3,Percentage,No,Pending
+127,Under Contract,"0759 Torres Mills, New Robertbury, CA 23335",Kerri Sanders,Robert Harris,579527,549307,2025-03-18 00:00:05,2025-03-26 00:00:05,Brian Harris,6,9,Percentage,No,Pending
+128,Pre-Offer,"915 Barton Flats, New Codyshire, MT 79266",Anthony Gill,Peter Hernandez,875038,899301,2025-08-17 03:25:16,2025-08-24 03:25:16,Shane Delgado,7,6,Tiered,Yes,Pending
+129,Pre-Offer,"861 Curtis Parkways, North Leonardchester, MD 39633",Kyle Wallace,Tina Vasquez,491681,554701,2025-04-06 20:19:50,2025-04-07 20:19:50,Jeffrey Bass,2,1,Percentage,Yes,Complete
+130,Killed,"32213 Davis Hills Suite 692, Butlerhaven, MT 20763",Kiara Stone,Courtney Hendrix,756217,805135,2025-04-28 19:44:48,2025-04-26 19:44:48,Tamara Davis,3,7,Tiered,Yes,Pending
+131,Closed,"96549 Molina Rest, Lake Jenna, MN 38681",Jason Harris,Lindsey Allen,754820,853367,2025-08-06 16:44:12,2025-08-05 16:44:12,Brian Harris,1,9,Percentage,No,Pending
+132,Pre-Offer,"31732 Jones Views, East Heatherhaven, NJ 28220",Monica Chan,Dennis Buchanan,694338,819730,2025-02-22 20:30:29,2025-02-23 20:30:29,Jonathan Stevenson,9,2,Tiered,No,Pending
+133,Killed,"74737 Lee Key, Jenniferville, PA 35598",Charles Blake,Lori Graham,318187,837574,2025-04-11 16:22:13,2025-04-19 16:22:13,Melinda Lowe,3,3,Percentage,Yes,Complete
+134,Under Contract,"6217 Cabrera Overpass, Lake Henry, WV 79153",Robin Potts,Kristen Cunningham,684381,493364,2025-02-14 13:11:10,2025-02-11 13:11:10,Linda Macdonald,3,6,Tiered,No,Pending
+135,Pre-Offer,"Unit 4630 Box 2059, DPO AP 46463",Amanda Smith,Erin Jones,418859,427700,2025-04-20 12:49:51,2025-04-27 12:49:51,Brian Harris,8,3,Flat,Yes,Complete
+136,Under Contract,"78242 Randall Vista Suite 876, West Tammyfurt, MO 14811",Yvette Powers,Sue Crane,662348,599970,2025-06-12 09:40:35,2025-06-18 09:40:35,Melinda Lowe,1,8,Percentage,Yes,Complete
+137,Under Contract,"804 Rogers Bypass Apt. 386, West Jon, MT 87092",Mary Fitzgerald,Scott Monroe,487445,507876,2025-07-30 08:59:26,2025-07-29 08:59:26,Rita Curry,5,10,Percentage,No,Pending
+138,Killed,"319 Parks Summit, South Dawn, AL 04396",Melanie Robles,Melissa Shaffer,581957,605222,2025-07-09 07:15:28,2025-07-17 07:15:28,Melinda Lowe,4,10,Tiered,No,Pending
+139,Under Contract,"6385 Jeffrey Parkway Suite 400, Paulachester, MD 55639",Shelby Kim,Thomas Ayala,727657,476688,2025-03-30 16:27:43,2025-04-02 16:27:43,Brian Harris,5,3,Tiered,No,Pending
+140,Closed,"108 Lisa Ports Apt. 658, Lake Angelastad, CT 32266",Tammy Humphrey,Clinton Taylor,359413,421371,2025-05-06 04:30:48,2025-05-12 04:30:48,Rita Curry,9,4,Tiered,No,Complete
+141,Closed,"32109 Stacey Mountains Suite 623, Jillmouth, AZ 36899",Ronald Trujillo,Joan Hunt,591558,463190,2025-07-20 00:03:15,2025-07-30 00:03:15,Melinda Lowe,8,8,Percentage,No,Complete
+142,Under Contract,"031 Craig Roads Suite 262, Bobbyborough, OK 89437",Kathleen Brown,Jennifer Greer,314452,903700,2025-06-16 21:12:28,2025-06-21 21:12:28,Melinda Lowe,1,2,Flat,No,Pending
+143,Under Contract,"3020 Mason Springs Apt. 759, Port Beverlymouth, SC 04289",Tony Davis,Chad Clarke,793532,620610,2025-02-07 06:44:03,2025-02-12 06:44:03,Rita Curry,6,7,Tiered,No,Complete
+144,Pre-Offer,"PSC 3012, Box 4789, APO AE 43565",Jamie Brown,Matthew Aguilar,305838,846943,2025-08-16 21:42:48,2025-08-21 21:42:48,Michelle Richardson DVM,2,1,Flat,Yes,Pending
+145,Killed,"USS Henderson, FPO AA 82385",Joseph Barnett,Kyle Stewart,508476,349487,2025-07-31 10:30:00,2025-08-09 10:30:00,Shane Delgado,7,4,Flat,No,Complete
+146,Killed,"9751 Patrick Key, Bartonbury, OH 16278",Stephen Adams,Patrick Pruitt,350249,782307,2025-06-27 21:10:19,2025-06-29 21:10:19,Brian Harris,8,1,Flat,No,Complete
+147,Closed,"3289 Fischer Port Suite 432, Santiagoside, MT 32172",Michael Phillips,Karen Martin,291329,423727,2025-02-12 22:18:07,2025-02-12 22:18:07,Linda Macdonald,4,9,Flat,No,Complete
+148,Under Contract,"7442 Kelley River Suite 350, Smithside, SD 95169",Kyle Alvarez,Crystal Garcia,606182,299029,2025-02-11 21:37:17,2025-02-19 21:37:17,Jonathan Stevenson,2,3,Percentage,No,Complete
+149,Under Contract,"86315 Jessica Hills, Jonesfort, MA 22782",Anna Ramirez,Joann Stephens,516277,802110,2025-04-17 18:38:09,2025-04-27 18:38:09,Roger Davis,4,7,Flat,No,Pending
+150,Pre-Offer,"Unit 5669 Box 5158, DPO AA 01623",Justin Taylor,Casey Harris,677059,847974,2025-02-03 10:59:18,2025-02-06 10:59:18,Michelle Richardson DVM,10,10,Percentage,Yes,Complete
+151,Killed,"0195 Maria Trail, Velazquezmouth, NH 12893",Gregory Wiggins,Lee Scott,582695,690619,2025-04-10 18:10:58,2025-04-05 18:10:58,Rita Curry,1,7,Tiered,Yes,Complete
+152,Pre-Offer,"421 Brian Estates Suite 396, Cherryside, MS 43475",Kerry Dean,Matthew Merritt,696258,788382,2025-08-07 15:46:59,2025-08-08 15:46:59,Tamara Davis,6,7,Flat,No,Pending
+153,Killed,"6888 Brown Lodge Apt. 027, Pachecostad, TX 71838",Damon Wright,Michelle Ford,507982,308427,2025-07-27 19:25:10,2025-07-27 19:25:10,Roger Davis,9,7,Flat,Yes,Complete
+154,Killed,"521 Ray Mills Suite 701, Lake Leehaven, MD 81863",Kelly Brown,Rebecca Horne,460123,370712,2025-03-21 00:31:22,2025-03-21 00:31:22,Michelle Richardson DVM,4,1,Tiered,Yes,Complete
+155,Under Contract,"432 Elizabeth Highway Suite 344, New Aaronfurt, OK 69702",Alex Schmidt,Angie Alvarez,760256,616939,2025-08-16 10:02:53,2025-08-23 10:02:53,Rita Curry,4,7,Percentage,Yes,Pending
+156,Closed,"439 Mosley Creek Apt. 618, South Megan, VA 07500",Scott Christensen,Brent Hubbard,506517,827888,2025-07-23 04:31:27,2025-07-22 04:31:27,Rita Curry,3,7,Tiered,Yes,Pending
+157,Pre-Offer,"926 Massey Islands Apt. 126, Flemingshire, WA 03430",Stacey Reid,Heather Avila,448525,453046,2025-03-27 20:36:29,2025-03-22 20:36:29,Brian Harris,1,1,Flat,Yes,Pending
+158,Killed,"33782 Kathryn Pines, South Garyborough, SC 25778",Julie Young,Earl Johnson DDS,593784,256655,2025-03-26 19:42:29,2025-03-27 19:42:29,Roger Davis,9,3,Percentage,No,Pending
+159,Killed,"25308 Theresa Groves, West Kiarabury, NM 24725",Charles Rubio,Jason Lane,751517,553552,2025-06-24 14:19:54,2025-06-24 14:19:54,Shane Delgado,1,9,Tiered,Yes,Pending
+160,Killed,"7077 Sarah Glen Suite 179, South Matthew, MI 27476",Alexa Santiago,Melissa Matthews,417645,757788,2025-06-10 05:53:57,2025-06-13 05:53:57,Jonathan Stevenson,6,3,Flat,Yes,Complete
+161,Under Contract,"753 Benjamin Unions, North Karenfurt, NM 74069",Gordon Mcdonald,Shannon Benton,356697,414912,2025-06-11 23:19:45,2025-06-18 23:19:45,Jeffrey Bass,3,8,Flat,Yes,Pending
+162,Under Contract,"7232 Wells Trail Suite 267, Davischester, DE 08878",Michelle Lin,Stephen Brooks,756808,255599,2025-03-06 15:11:46,2025-03-01 15:11:46,Tamara Davis,7,3,Flat,No,Pending
+163,Closed,"79307 Michelle Summit Suite 209, West Annaton, SD 06196",Bruce Cook,Jesse Cole,834606,615960,2025-03-05 05:07:37,2025-03-13 05:07:37,Shane Delgado,8,1,Percentage,Yes,Complete
+164,Killed,"968 Travis Haven, East Kellychester, TN 38619",Steven Sawyer,Dr. Douglas Pugh,673361,327163,2025-07-21 02:27:19,2025-07-29 02:27:19,Michelle Richardson DVM,5,3,Tiered,Yes,Complete
+165,Under Contract,"61981 Phillip Oval, East Andrewview, NH 24781",Carrie Douglas,Ryan Gilbert,269787,839322,2025-04-14 09:05:39,2025-04-17 09:05:39,Tamara Davis,5,4,Tiered,No,Complete
+166,Under Contract,"553 Rodriguez Run, Danielville, AZ 28417",Angela Cannon,Jennifer Gilbert,876953,253026,2025-04-22 15:18:39,2025-04-26 15:18:39,Jeffrey Bass,3,2,Percentage,No,Complete
+167,Pre-Offer,"8147 Dean Wall Apt. 870, Julieport, SC 59117",James Brown,Rebecca Brown,720684,635092,2025-06-19 04:04:28,2025-06-20 04:04:28,Michelle Richardson DVM,3,5,Flat,Yes,Pending
+168,Under Contract,"215 Baker Fork, Lake Lawrence, OK 81009",Christina Davis,Heather Harrell,267157,330647,2025-08-02 05:31:42,2025-08-01 05:31:42,Roger Davis,7,4,Percentage,No,Pending
+169,Killed,"PSC 4539, Box 1839, APO AP 29369",Randall Elliott,Joshua David,601654,749754,2025-04-04 15:48:06,2025-04-08 15:48:06,Michelle Richardson DVM,3,3,Flat,Yes,Pending
+170,Pre-Offer,"49022 Moore Inlet, Hansonview, WY 58133",Kylie Hamilton,Stephen Sanford,717576,865478,2025-08-23 19:04:31,2025-09-02 19:04:31,Rita Curry,7,4,Flat,Yes,Pending
+171,Under Contract,"76944 Guerrero Harbors Suite 661, Saraview, MI 79820",Stephanie Nielsen,Thomas Guzman,770913,902542,2025-05-17 22:14:36,2025-05-16 22:14:36,Jeffrey Bass,10,1,Tiered,No,Complete
+172,Closed,"572 Mark Trace Suite 248, New Davidfort, NY 45798",Pamela Hull,Sarah Velasquez,619715,804338,2025-02-24 00:00:23,2025-02-21 00:00:23,Jeffrey Bass,10,7,Tiered,No,Complete
+173,Pre-Offer,"7865 Ashley Isle Apt. 421, Adamsside, SD 08334",Benjamin Rodriguez,Jennifer Thompson,269403,873529,2025-08-03 09:18:04,2025-08-12 09:18:04,Melinda Lowe,3,1,Percentage,Yes,Complete
+174,Closed,"6848 Jane Turnpike, Dakotaton, ID 88018",Michael Martin,Adam Combs,357769,548766,2025-04-15 00:23:06,2025-04-11 00:23:06,Shane Delgado,9,4,Percentage,Yes,Complete
+175,Pre-Offer,"7328 Dean Station, West Erica, NH 63320",Jonathan Wu,Joseph Johnson,780991,621474,2025-03-02 05:49:53,2025-02-26 05:49:53,Shane Delgado,4,5,Flat,No,Pending
+176,Pre-Offer,"770 Sean Mountains Apt. 997, East Ronaldmouth, VA 35202",Howard Thomas,Jermaine Kline,388088,422727,2025-04-21 10:43:47,2025-04-16 10:43:47,Brian Harris,2,3,Flat,No,Complete
+177,Killed,"341 Rios Square Suite 757, South Hannahshire, AK 46890",Jamie Mckay,Bruce Trujillo,883328,786286,2025-05-03 01:41:10,2025-05-03 01:41:10,Jonathan Stevenson,9,8,Percentage,Yes,Complete
+178,Pre-Offer,"814 White Lake Suite 059, East Rhonda, OR 45347",Rebecca Kirk,Jonathan Lee,413118,679637,2025-03-09 06:02:51,2025-03-17 06:02:51,Brian Harris,9,5,Percentage,Yes,Complete
+179,Closed,"83691 Neil Meadows, Robinsonstad, ND 37489",Shaun Hamilton,Kathy Hill,849135,739441,2025-04-04 20:17:55,2025-04-12 20:17:55,Shane Delgado,4,9,Tiered,Yes,Complete
+180,Pre-Offer,"80433 Brown Pass, Lake Holly, CA 03664",Shannon Lee,Shelly Snyder,404346,896356,2025-06-20 00:50:07,2025-06-26 00:50:07,Rita Curry,9,8,Percentage,Yes,Complete
+181,Pre-Offer,"16175 Angela Cliffs Suite 926, North Nathan, NJ 01425",April Campbell,Margaret Choi,707982,636347,2025-05-04 19:39:51,2025-04-29 19:39:51,Brian Harris,9,1,Flat,No,Pending
+182,Under Contract,"6306 Allen Gateway Suite 753, Millertown, ID 07585",Jared Anderson,Isaiah Kent,621032,768092,2025-03-24 05:57:40,2025-03-27 05:57:40,Rita Curry,7,2,Flat,No,Complete
+183,Under Contract,"525 Sean Springs, Rioston, MS 06576",Pamela Obrien,Austin Fletcher,483005,341218,2025-04-15 16:35:46,2025-04-17 16:35:46,Jeffrey Bass,10,1,Tiered,No,Pending
+184,Under Contract,"3429 James Lane, East Austinberg, SD 49033",Kim Trujillo,Tamara Sellers,504599,885484,2025-06-26 08:52:38,2025-07-01 08:52:38,Linda Macdonald,7,10,Percentage,Yes,Pending
+185,Pre-Offer,"88873 Vincent Spur, Lake Michael, HI 74459",Stephanie Brown,Megan Sullivan,596747,641923,2025-02-06 03:11:55,2025-02-03 03:11:55,Rita Curry,4,8,Tiered,Yes,Complete
+186,Killed,"6686 Rebecca Motorway Suite 678, Hopkinsberg, NC 98952",Elizabeth Henderson,Daniel Williams,741252,489038,2025-06-18 16:00:55,2025-06-27 16:00:55,Melinda Lowe,8,5,Percentage,No,Complete
+187,Under Contract,"470 Paul Field, South Chloe, NE 82691",John Harrison,Pamela Scott,751275,852176,2025-05-13 21:40:19,2025-05-13 21:40:19,Shane Delgado,2,5,Flat,No,Complete
+188,Killed,"864 John Stream, Port Sarah, NE 72370",Robert Kent,Jordan Smith,880992,456811,2025-05-06 05:36:20,2025-05-15 05:36:20,Tamara Davis,1,4,Percentage,No,Pending
+189,Closed,"PSC 5381, Box 4566, APO AE 06697",Antonio Holt,Heather Anderson,891143,830597,2025-04-14 17:33:36,2025-04-23 17:33:36,Rita Curry,7,3,Flat,Yes,Complete
+190,Under Contract,"8633 Morgan Key, Brownport, NM 46691",Ann Rogers,Kristi Collins,669123,610126,2025-02-06 03:00:07,2025-02-06 03:00:07,Michelle Richardson DVM,3,2,Flat,No,Pending
+191,Closed,"USCGC Weaver, FPO AE 11439",Ebony Young,Jeffrey Garcia,526222,441377,2025-06-05 12:42:51,2025-06-02 12:42:51,Jonathan Stevenson,6,7,Percentage,No,Pending
+192,Pre-Offer,"8328 Bates Motorway, Bowenside, VA 55040",Sonya Scott,Richard Martin,469921,334712,2025-06-27 05:45:46,2025-07-02 05:45:46,Jeffrey Bass,6,3,Flat,No,Complete
+193,Killed,"1431 Gordon Mountains Apt. 039, Dennisborough, NY 54142",Jamie Carey,James Torres,363820,683559,2025-05-08 22:53:10,2025-05-07 22:53:10,Linda Macdonald,3,8,Flat,No,Complete
+194,Closed,"Unit 5535 Box 0096, DPO AE 03814",Scott Reed,Karla Mack,417468,775959,2025-04-30 18:06:53,2025-04-30 18:06:53,Jonathan Stevenson,7,10,Percentage,No,Pending
+195,Pre-Offer,"120 Brady Coves Apt. 689, Robertsstad, ME 35222",Veronica Manning,Elizabeth Harris,749680,337868,2025-04-14 00:28:56,2025-04-19 00:28:56,Jeffrey Bass,6,5,Flat,No,Complete
+196,Closed,"8672 Mark Ports, Deniseburgh, IL 05623",Steven Peters,Heather Caldwell,477071,465959,2025-06-30 17:26:37,2025-06-26 17:26:37,Brian Harris,1,3,Percentage,No,Complete
+197,Under Contract,"521 Williams Roads Apt. 791, Lindsayfort, UT 13977",Michelle Martinez,Jessica Wyatt,279885,875955,2025-02-02 23:43:49,2025-02-09 23:43:49,Jonathan Stevenson,3,5,Flat,Yes,Pending
+198,Under Contract,"206 Johnson Drives, Christinastad, MS 25906",Jack Scott,Nicholas Webb,333157,432812,2025-02-10 07:03:24,2025-02-09 07:03:24,Melinda Lowe,10,8,Percentage,Yes,Complete
+199,Closed,"848 Barry Haven Suite 939, Davisfort, NE 32014",Cynthia Anderson,Dalton Anderson,395623,839281,2025-04-29 14:42:09,2025-04-25 14:42:09,Jeffrey Bass,9,6,Tiered,Yes,Pending
+200,Closed,"Unit 7033 Box 5010, DPO AE 78628",Edward Sanders,Tina Tucker,424346,288849,2025-04-19 13:12:13,2025-04-19 13:12:13,Michelle Richardson DVM,1,3,Flat,No,Pending

@@ -1,0 +1,11 @@
+agent_id,full_name,join_date,status,team_name,region,monthly_quota,total_deals_closed
+1,Linda Macdonald,2024-10-10,Inactive,Team B,Nassau,9,72
+2,Roger Davis,2024-10-14,Inactive,Team B,Nassau,5,51
+3,Michelle Richardson DVM,2023-06-03,Inactive,Solo,Suffolk,5,36
+4,Shane Delgado,2023-03-15,Inactive,Solo,Suffolk,4,76
+5,Jeffrey Bass,2025-02-13,Active,Team A,Suffolk,8,24
+6,Jonathan Stevenson,2022-08-05,Inactive,Team A,Suffolk,3,63
+7,Melinda Lowe,2023-02-16,Inactive,Team B,Nassau,5,11
+8,Brian Harris,2025-02-20,Inactive,Solo,Suffolk,5,71
+9,Tamara Davis,2025-04-11,Inactive,Team B,Suffolk,6,65
+10,Rita Curry,2023-04-06,Active,Team B,Suffolk,9,65

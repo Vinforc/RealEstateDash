@@ -1,0 +1,301 @@
+mls_id,property_address,city,zip_code,list_price,sale_price,bedrooms,bathrooms,square_feet,lot_size,year_built,property_type,listing_agent,office,status,list_date,close_date,days_on_market,price_change_count
+MLS100000,890 Scott Key Suite 994,Islip,79435,1192252,,2,2.6,2408,0.93,1967,Co-op,Michelle Richardson DVM,Navarro Realty,Expired,2025-03-31 01:49:42,,116,1
+MLS100001,9417 Meyer Track,Smithtown,92121,556974,,3,1.4,4868,1.06,1964,Single Family,Shane Delgado,Castro Realty,Active,2025-06-20 08:36:15,,34,0
+MLS100002,5823 Russell Station,Islip,83268,995426,965919.0,4,2.9,4173,1.0,1960,Townhouse,Shane Delgado,Ortega Realty,Closed,2024-09-22 06:42:08,2024-11-11 06:42:08,50,0
+MLS100003,240 Steven Rest Apt. 671,Freeport,24493,362396,319750.0,3,3.6,3939,0.26,1987,Single Family,Jeffrey Bass,Mitchell Realty,Closed,2024-12-06 07:11:07,2025-03-11 07:11:07,95,3
+MLS100004,8151 John Summit,Islip,10556,797277,,5,1.9,3370,1.65,1980,Single Family,Michelle Richardson DVM,Bates Realty,Active,2025-01-10 15:30:06,,195,3
+MLS100005,960 Chavez Stravenue,Huntington,92685,568570,521508.0,5,1.4,1260,2.01,1953,Single Family,Jonathan Stevenson,Anderson Realty,Closed,2025-03-12 06:42:05,2025-03-26 06:42:05,14,3
+MLS100006,766 Joanna Locks,Huntington,08699,597579,,2,2.3,4614,1.1,1951,Multi-Family,Melinda Lowe,Black Realty,Pending,2024-11-29 12:39:16,,237,0
+MLS100007,612 Ortiz Grove,Hempstead,75415,323991,,5,3.5,2605,2.14,2012,Co-op,Linda Macdonald,Kim Realty,Active,2025-07-03 16:54:53,,21,3
+MLS100008,307 Richmond Ports,Hempstead,85749,1130206,,4,3.0,4058,2.0,1991,Townhouse,Michelle Richardson DVM,Mitchell Realty,Active,2025-02-20 00:10:23,,155,2
+MLS100009,2326 Powell Falls Apt. 337,Islip,12575,1047089,,5,3.2,2218,1.43,1966,Condo,Jeffrey Bass,Gonzalez Realty,Active,2024-12-06 17:49:05,,230,2
+MLS100010,910 Poole Fork Suite 728,Brookhaven,98170,1349483,,2,2.1,1909,0.54,2017,Co-op,Roger Davis,Miller Realty,Active,2024-09-02 16:26:42,,325,2
+MLS100011,77058 Parrish Via,Brookhaven,62742,1496276,,2,2.0,3715,2.39,2005,Condo,Shane Delgado,Li Realty,Pending,2025-02-05 18:55:11,,169,1
+MLS100012,42464 Peter Loop,Babylon,80389,257517,212666.0,1,2.9,1330,0.39,1983,Multi-Family,Jonathan Stevenson,Elliott Realty,Closed,2025-05-28 15:03:43,2025-07-14 15:03:43,47,0
+MLS100013,5130 Berry Roads Apt. 688,Smithtown,95095,1400767,1363546.0,2,1.2,3375,1.44,1967,Multi-Family,Jonathan Stevenson,Stephenson Realty,Closed,2024-08-25 13:10:35,2024-10-13 13:10:35,49,3
+MLS100014,952 Cook Avenue,Brookhaven,54722,310536,297926.0,5,2.6,1367,2.18,1980,Multi-Family,Linda Macdonald,Elliott Realty,Closed,2024-09-05 04:38:03,2024-10-28 04:38:03,53,2
+MLS100015,3325 Carly Vista,Brookhaven,13777,732372,,4,3.0,1196,0.72,2008,Co-op,Shane Delgado,Gonzalez Realty,Active,2024-11-25 10:22:35,,241,3
+MLS100016,959 Phillips Square,Brookhaven,01273,785950,,1,2.4,1898,2.14,2006,Single Family,Jeffrey Bass,Russell Realty,Withdrawn,2024-07-30 19:36:12,,359,3
+MLS100017,5612 Lee Walks,Brookhaven,97239,571011,,3,3.7,933,1.74,1972,Co-op,Jonathan Stevenson,Hunter Realty,Active,2024-12-18 19:07:59,,218,0
+MLS100018,53213 Mark Haven Apt. 163,Hempstead,63428,1069856,,5,2.9,1242,1.46,2020,Single Family,Tamara Davis,Clark Realty,Expired,2025-03-17 07:27:18,,129,1
+MLS100019,9922 Joseph Canyon Suite 919,Smithtown,06485,351763,,6,3.0,1765,1.12,1995,Co-op,Melinda Lowe,Bond Realty,Pending,2025-04-19 14:57:03,,96,2
+MLS100020,14289 Briana Estates Suite 753,Brookhaven,60846,785228,772544.0,5,2.6,1323,0.83,1999,Co-op,Michelle Richardson DVM,Tran Realty,Closed,2025-03-29 12:45:45,2025-04-13 12:45:45,15,1
+MLS100021,71506 Justin Estates,Smithtown,66588,1150344,1116184.0,4,3.5,803,1.77,2011,Multi-Family,Tamara Davis,Lane Realty,Closed,2025-06-13 17:53:12,2025-06-30 17:53:12,17,2
+MLS100022,9298 Rivera Land,Brookhaven,56291,435004,,6,2.6,1328,1.97,1979,Townhouse,Jonathan Stevenson,Cox Realty,Active,2024-12-25 17:28:21,,211,1
+MLS100023,09026 Villarreal Highway,Hempstead,56529,864148,,2,2.5,1275,1.61,1977,Multi-Family,Jeffrey Bass,Snyder Realty,Active,2024-09-22 23:50:34,,305,0
+MLS100024,22295 Shannon Club Apt. 850,Smithtown,38902,1086975,1065823.0,3,3.3,1516,1.17,1953,Co-op,Brian Harris,Brown Realty,Closed,2025-07-01 00:40:22,2025-10-15 00:40:22,106,3
+MLS100025,569 Jeffrey Fords Suite 729,Hempstead,33162,810914,,4,1.3,1291,0.4,2005,Single Family,Roger Davis,Hoffman Realty,Expired,2025-03-18 23:37:33,,128,3
+MLS100026,37459 Mary Causeway Apt. 830,Smithtown,44628,378712,,1,1.1,1787,0.4,1953,Multi-Family,Michelle Richardson DVM,Kelley Realty,Pending,2025-01-04 13:48:48,,201,3
+MLS100027,38152 Keller Parkway,Freeport,04256,1176385,,5,1.4,839,2.32,1979,Single Family,Shane Delgado,Smith Realty,Active,2024-09-07 13:54:21,,320,0
+MLS100028,731 Erika Lodge Apt. 282,Babylon,42305,1430828,,1,2.7,1492,0.3,1963,Condo,Roger Davis,Ellison Realty,Active,2025-03-06 12:39:26,,140,2
+MLS100029,197 Martin Camp,Hempstead,97788,993361,,6,2.3,998,0.8,1955,Multi-Family,Michelle Richardson DVM,Rivas Realty,Pending,2025-05-10 23:56:36,,75,3
+MLS100030,76148 Moore Stravenue,Brookhaven,59747,1344286,1315347.0,3,3.0,2323,2.43,1958,Multi-Family,Brian Harris,Diaz Realty,Closed,2025-01-10 11:06:29,2025-04-16 11:06:29,96,3
+MLS100031,061 Alex Canyon,Brookhaven,40838,547634,,1,2.3,915,1.88,2008,Multi-Family,Jonathan Stevenson,Campbell Realty,Active,2024-11-03 16:37:39,,263,2
+MLS100032,911 Pena Summit,Freeport,13889,831114,783876.0,6,1.1,1074,0.2,1990,Single Family,Linda Macdonald,Rivera Realty,Closed,2024-11-29 01:42:54,2025-01-26 01:42:54,58,3
+MLS100033,6913 Mclaughlin Mills,Babylon,18876,1321428,,5,3.8,4424,0.66,1964,Condo,Tamara Davis,Brewer Realty,Active,2025-01-09 09:25:16,,196,1
+MLS100034,5776 Gregory Forges,Huntington,37238,556677,,4,3.5,3780,2.0,1967,Co-op,Tamara Davis,Smith Realty,Pending,2025-05-10 09:31:07,,75,0
+MLS100035,97489 Alvarez Plaza Suite 910,Smithtown,69423,667569,652153.0,6,2.1,2277,0.32,2018,Multi-Family,Rita Curry,Price Realty,Closed,2025-07-22 12:44:48,2025-10-21 12:44:48,91,2
+MLS100036,93402 Garrett Brooks,Brookhaven,83180,559086,,3,1.5,1118,1.81,2003,Single Family,Tamara Davis,Hall Realty,Withdrawn,2025-05-10 01:09:58,,76,1
+MLS100037,99590 Cook Mill Apt. 270,Brookhaven,44610,739895,,1,2.6,3228,1.91,2017,Multi-Family,Roger Davis,Miller Realty,Pending,2025-02-06 19:46:26,,168,2
+MLS100038,60697 Sandra Court,Huntington,78662,1050667,,1,2.5,1659,0.27,1986,Single Family,Brian Harris,Estes Realty,Expired,2024-11-13 16:16:23,,253,3
+MLS100039,614 Combs Lodge Apt. 508,Islip,77437,805618,777940.0,3,3.2,2503,1.43,2012,Condo,Jeffrey Bass,Martin Realty,Closed,2024-10-27 13:39:32,2025-01-20 13:39:32,85,1
+MLS100040,56353 Butler Ports,Huntington,04039,279058,,5,3.3,1785,1.23,1983,Co-op,Michelle Richardson DVM,Bush Realty,Active,2025-02-23 09:10:46,,151,0
+MLS100041,2483 Kelli Forks,Hempstead,35933,1170210,1121042.0,1,2.7,1987,1.32,2007,Townhouse,Rita Curry,Mcdaniel Realty,Closed,2025-07-02 06:48:31,2025-09-08 06:48:31,68,2
+MLS100042,05608 Martin Port,Islip,54242,903858,,3,2.9,1950,1.33,1997,Co-op,Shane Delgado,Ibarra Realty,Active,2025-06-27 14:31:37,,27,3
+MLS100043,5512 Sean Ville Apt. 043,Huntington,93120,719632,,1,1.4,1525,0.57,1964,Multi-Family,Roger Davis,Shepherd Realty,Active,2024-08-07 22:33:11,,351,0
+MLS100044,88347 David Circles,Brookhaven,87746,603586,589161.0,2,1.0,2693,0.64,1997,Townhouse,Brian Harris,Lopez Realty,Closed,2024-08-21 04:23:34,2024-11-18 04:23:34,89,3
+MLS100045,0327 Harper Loop,Islip,43648,1177559,,4,2.5,1792,1.75,1958,Townhouse,Linda Macdonald,Pierce Realty,Pending,2025-06-14 17:04:52,,40,3
+MLS100046,0124 Jones Camp Suite 409,Freeport,42125,815026,789141.0,5,2.0,1135,1.49,2014,Multi-Family,Jeffrey Bass,Garcia Realty,Closed,2025-07-15 22:58:35,2025-08-02 22:58:35,18,0
+MLS100047,984 Sheppard Springs,Huntington,78420,1146366,1111891.0,3,2.1,4674,2.45,1984,Townhouse,Tamara Davis,Walker Realty,Closed,2025-05-04 17:00:43,2025-08-30 17:00:43,118,3
+MLS100048,919 Miller Curve,Babylon,59132,929765,,6,1.8,2449,0.16,2020,Townhouse,Tamara Davis,Hayes Realty,Active,2024-10-22 02:50:00,,275,2
+MLS100049,08314 Quinn Ville,Smithtown,36222,1142908,,4,4.0,4379,2.18,1993,Townhouse,Roger Davis,Delgado Realty,Pending,2025-03-17 05:10:34,,129,3
+MLS100050,7407 Hooper Brook,Islip,54516,646929,,1,3.7,4937,0.22,1991,Multi-Family,Melinda Lowe,Velazquez Realty,Pending,2024-11-15 18:36:57,,251,0
+MLS100051,39791 Allen Expressway Apt. 443,Babylon,44608,467799,,3,1.7,4912,2.01,1972,Multi-Family,Roger Davis,Harris Realty,Active,2025-05-21 09:51:05,,64,2
+MLS100052,4176 Shea Lane,Brookhaven,56529,1035058,,1,3.1,1415,1.2,1954,Condo,Melinda Lowe,Richardson Realty,Pending,2025-02-17 13:08:26,,157,3
+MLS100053,9510 Tiffany Ways,Babylon,33835,1228649,,3,3.4,3379,2.34,1981,Multi-Family,Roger Davis,Jackson Realty,Active,2024-07-31 23:52:59,,358,0
+MLS100054,83146 Shirley Pine Suite 230,Huntington,38721,269485,237298.0,6,2.7,4067,2.17,1970,Condo,Rita Curry,Cervantes Realty,Closed,2024-07-26 15:23:37,2024-10-21 15:23:37,87,1
+MLS100055,30062 Nicole Plains,Islip,80014,1257760,1217031.0,1,1.9,3581,1.39,2012,Condo,Michelle Richardson DVM,Brown Realty,Closed,2025-06-21 20:30:31,2025-09-08 20:30:31,79,0
+MLS100056,85151 Chambers Islands,Freeport,92737,1052911,,4,3.5,2891,0.9,1979,Multi-Family,Tamara Davis,Mclean Realty,Pending,2025-01-14 11:11:27,,191,0
+MLS100057,200 Maldonado Key,Smithtown,43595,653559,639685.0,6,2.8,4302,0.87,1975,Single Family,Linda Macdonald,Wright Realty,Closed,2025-06-28 12:46:53,2025-09-27 12:46:53,91,3
+MLS100058,5838 Eric Isle,Huntington,21615,605955,568941.0,1,2.7,4639,1.69,1990,Co-op,Tamara Davis,Collins Realty,Closed,2024-08-07 19:55:32,2024-10-12 19:55:32,66,2
+MLS100059,796 Sanford Spur,Brookhaven,13300,954020,,6,3.6,1292,2.49,1975,Townhouse,Jeffrey Bass,Wade Realty,Active,2024-08-15 07:09:33,,343,0
+MLS100060,8862 Kathryn Valleys,Babylon,90897,433995,395245.0,6,1.2,1299,1.24,1951,Co-op,Linda Macdonald,Graves Realty,Closed,2025-07-04 11:01:09,2025-08-10 11:01:09,37,3
+MLS100061,2738 Roberts Knoll Apt. 394,Hempstead,48249,428082,414895.0,2,1.7,2404,1.6,1999,Condo,Melinda Lowe,Carter Realty,Closed,2025-04-12 23:53:46,2025-06-02 23:53:46,51,2
+MLS100062,2535 Solomon Falls Apt. 623,Freeport,37535,266125,,5,3.7,808,0.61,1965,Multi-Family,Brian Harris,Donaldson Realty,Active,2024-08-05 20:46:23,,353,0
+MLS100063,870 Valerie Coves,Smithtown,08220,632939,,5,3.3,1958,1.44,1987,Single Family,Brian Harris,Guzman Realty,Active,2024-12-15 16:13:58,,221,0
+MLS100064,549 Harding Road Apt. 082,Huntington,11505,1482672,,5,2.9,2202,0.28,1996,Single Family,Tamara Davis,Hawkins Realty,Active,2025-03-26 02:12:24,,121,2
+MLS100065,823 George Course,Babylon,27932,1007042,,6,3.0,4515,0.83,2005,Townhouse,Melinda Lowe,Butler Realty,Active,2025-03-24 18:05:45,,122,1
+MLS100066,012 Doyle Mill Apt. 034,Huntington,77839,1153821,,3,2.5,2584,1.66,2017,Multi-Family,Shane Delgado,Monroe Realty,Active,2025-02-06 15:28:22,,168,3
+MLS100067,68128 Brent Valley Suite 100,Huntington,39449,956000,,5,2.8,1250,0.16,1953,Single Family,Roger Davis,Bean Realty,Active,2025-01-25 08:40:57,,180,0
+MLS100068,6557 Hines Plaza,Islip,67312,1248298,,5,1.5,2389,1.3,2011,Co-op,Michelle Richardson DVM,Hernandez Realty,Pending,2024-08-25 10:24:40,,333,1
+MLS100069,262 Ward Summit Suite 305,Babylon,68134,732577,,3,2.9,860,1.74,1967,Townhouse,Michelle Richardson DVM,Clark Realty,Active,2025-06-10 00:47:24,,45,1
+MLS100070,87487 Troy Views Apt. 193,Brookhaven,27294,1174861,1152998.0,5,1.4,2300,0.32,2001,Townhouse,Jeffrey Bass,Adams Realty,Closed,2025-06-10 13:19:40,2025-06-16 13:19:40,6,3
+MLS100071,099 Aaron Forge,Brookhaven,55662,1023469,,3,3.3,4309,1.53,1958,Multi-Family,Linda Macdonald,Gutierrez Realty,Pending,2024-10-10 14:31:15,,287,1
+MLS100072,40971 Lee Fords Apt. 956,Hempstead,45815,1117357,,4,2.9,4690,2.0,2018,Multi-Family,Shane Delgado,Hodge Realty,Active,2025-06-07 23:14:09,,47,2
+MLS100073,6036 Paula Loop Suite 803,Babylon,62875,251378,,6,3.9,4071,1.13,1966,Townhouse,Rita Curry,Adams Realty,Active,2025-03-15 10:12:22,,131,0
+MLS100074,35636 Grant Creek,Islip,62247,854003,,3,1.8,3709,0.11,2019,Single Family,Jonathan Stevenson,Richardson Realty,Active,2024-09-12 02:32:47,,316,2
+MLS100075,838 Sharp View Apt. 867,Brookhaven,96812,1263175,,4,1.5,2169,0.46,1983,Multi-Family,Rita Curry,Ortega Realty,Pending,2025-04-29 04:11:26,,86,2
+MLS100076,378 Gina Squares Suite 326,Islip,17000,1045962,,4,1.9,4836,0.8,2013,Condo,Rita Curry,Allen Realty,Pending,2025-01-08 22:54:33,,197,3
+MLS100077,9293 Ryan Plains Apt. 044,Hempstead,42835,702993,,4,2.7,1375,1.54,2015,Single Family,Shane Delgado,Ramsey Realty,Pending,2025-04-13 13:34:14,,102,3
+MLS100078,090 Simmons Mission Suite 590,Smithtown,04139,640008,,6,3.9,3866,1.93,1983,Co-op,Brian Harris,Guzman Realty,Pending,2024-10-25 23:43:40,,272,0
+MLS100079,78550 Lewis Park Apt. 453,Islip,60339,545026,,6,1.7,891,2.03,1975,Townhouse,Jeffrey Bass,Lewis Realty,Active,2024-10-13 16:32:21,,284,3
+MLS100080,17993 Natalie Crest,Huntington,60548,461619,419724.0,4,1.5,1958,1.79,1951,Condo,Linda Macdonald,Bell Realty,Closed,2024-12-09 12:57:37,2025-01-22 12:57:37,44,0
+MLS100081,383 Christine Villages,Brookhaven,39540,1034222,,6,2.9,3753,1.96,1980,Co-op,Melinda Lowe,Evans Realty,Withdrawn,2024-11-03 20:39:01,,263,2
+MLS100082,8560 Avery Valleys Apt. 016,Islip,82427,1131936,,6,2.6,4145,0.77,2013,Multi-Family,Linda Macdonald,Hicks Realty,Active,2025-02-04 18:09:00,,170,1
+MLS100083,7317 Boyd Tunnel,Freeport,31929,583721,,1,2.6,4638,1.83,1975,Condo,Michelle Richardson DVM,Brown Realty,Pending,2025-05-26 06:02:35,,59,1
+MLS100084,3390 Long Walk Suite 325,Islip,88333,408114,,5,3.0,3665,1.18,1993,Multi-Family,Melinda Lowe,Simpson Realty,Expired,2024-09-28 20:42:39,,299,3
+MLS100085,15127 John Loop Suite 781,Brookhaven,24502,859051,818259.0,1,2.9,1349,0.81,2012,Single Family,Roger Davis,Rollins Realty,Closed,2025-01-15 13:49:37,2025-01-29 13:49:37,14,1
+MLS100086,49708 Grimes Lake,Smithtown,41375,559676,,1,3.0,3890,1.89,2019,Townhouse,Michelle Richardson DVM,Moore Realty,Active,2025-02-14 03:21:22,,160,2
+MLS100087,3577 Peterson Dam,Huntington,74082,1163486,,3,3.9,2572,2.11,2007,Co-op,Jeffrey Bass,Brooks Realty,Pending,2024-10-29 22:45:08,,268,0
+MLS100088,662 Rodriguez Terrace Apt. 892,Babylon,02797,402725,,5,1.4,4621,1.47,2021,Single Family,Tamara Davis,Adams Realty,Pending,2025-04-21 06:07:47,,94,3
+MLS100089,553 Henderson Pine Apt. 345,Freeport,57390,404203,,3,1.2,4266,1.71,2012,Single Family,Roger Davis,Martin Realty,Active,2025-07-13 08:39:21,,11,0
+MLS100090,0013 Richards River,Smithtown,86002,1306978,,3,1.7,1499,0.61,2015,Single Family,Tamara Davis,Chang Realty,Active,2024-12-22 04:42:43,,214,1
+MLS100091,128 Devin Mountains Suite 199,Huntington,93698,503912,,1,3.3,4482,0.46,2019,Single Family,Tamara Davis,Blevins Realty,Active,2025-05-02 01:15:46,,84,3
+MLS100092,97677 Scott Garden,Huntington,08203,837036,,1,2.9,3199,1.52,1980,Condo,Jonathan Stevenson,Myers Realty,Withdrawn,2024-11-22 02:40:29,,245,2
+MLS100093,5595 Reeves Summit,Brookhaven,61623,1008880,996874.0,1,1.1,4021,1.55,2017,Single Family,Tamara Davis,Jones Realty,Closed,2025-03-07 14:47:08,2025-05-12 14:47:08,66,0
+MLS100094,87840 Foster Squares Apt. 812,Brookhaven,32864,1014244,983394.0,3,3.8,3048,1.73,1985,Multi-Family,Rita Curry,Frazier Realty,Closed,2024-09-30 13:29:45,2024-10-23 13:29:45,23,0
+MLS100095,241 Cynthia View Suite 966,Smithtown,78894,287311,,1,1.6,2480,1.62,1989,Co-op,Tamara Davis,Gardner Realty,Pending,2024-08-21 20:55:30,,337,2
+MLS100096,593 Brown Forks Apt. 157,Islip,60028,1040348,,4,1.3,3624,0.82,1950,Multi-Family,Brian Harris,Perez Realty,Pending,2024-10-27 07:20:41,,270,3
+MLS100097,078 Jim Pike Suite 451,Hempstead,25242,534180,,3,3.3,924,1.43,1970,Single Family,Linda Macdonald,Kennedy Realty,Active,2024-11-13 08:37:28,,253,1
+MLS100098,1281 Bobby Loaf Suite 075,Brookhaven,08765,494527,,5,3.5,3926,2.14,1969,Condo,Melinda Lowe,Barnes Realty,Active,2025-05-04 11:08:24,,81,0
+MLS100099,1691 Patty Motorway,Islip,37680,1025147,,6,2.5,3197,2.11,1957,Townhouse,Brian Harris,Lewis Realty,Active,2024-12-14 07:50:18,,222,3
+MLS100100,946 Newton Alley,Brookhaven,97968,1161319,,4,1.7,1766,1.63,2005,Condo,Rita Curry,Richards Realty,Active,2024-11-25 10:36:40,,241,2
+MLS100101,9790 Davis Manor,Smithtown,49470,1487486,,3,1.1,1161,0.38,2000,Co-op,Rita Curry,Hoffman Realty,Active,2024-09-08 17:31:15,,319,0
+MLS100102,87612 Espinoza Drive Suite 714,Brookhaven,99539,673601,652014.0,2,1.7,1952,0.54,1983,Townhouse,Rita Curry,Torres Realty,Closed,2025-05-20 10:21:46,2025-05-28 10:21:46,8,1
+MLS100103,4071 Cindy Place Suite 652,Freeport,86704,919053,,4,1.3,838,2.28,1978,Condo,Rita Curry,Evans Realty,Active,2024-12-21 23:32:12,,215,1
+MLS100104,5964 Ray Hollow Apt. 725,Smithtown,03495,843551,813237.0,2,2.7,3699,0.62,1998,Multi-Family,Michelle Richardson DVM,Davis Realty,Closed,2024-12-26 02:38:10,2025-02-06 02:38:10,42,2
+MLS100105,198 Kimberly Mission,Hempstead,39687,403422,,1,1.1,1643,0.96,1992,Townhouse,Jonathan Stevenson,Lewis Realty,Active,2024-09-17 17:16:51,,310,3
+MLS100106,92162 Snow Mountains,Freeport,28213,318989,,4,2.2,4092,2.41,1987,Single Family,Melinda Lowe,Campbell Realty,Active,2025-05-14 05:16:45,,71,1
+MLS100107,62287 Ryan Fords,Freeport,91740,355567,308521.0,1,2.0,4764,1.05,1965,Townhouse,Tamara Davis,Patterson Realty,Closed,2025-06-11 02:35:59,2025-10-07 02:35:59,118,3
+MLS100108,1807 Catherine Ridges,Huntington,42323,987997,,1,1.7,4152,1.71,1996,Co-op,Brian Harris,Powers Realty,Active,2024-11-28 09:26:08,,238,3
+MLS100109,24756 Phillips Glen Apt. 255,Huntington,18207,624657,,3,3.0,2731,0.89,1975,Multi-Family,Linda Macdonald,Johnson Realty,Pending,2025-01-11 06:04:02,,194,2
+MLS100110,37783 Simon Row,Brookhaven,02559,413675,373292.0,3,4.0,1024,2.02,1994,Condo,Brian Harris,Johnson Realty,Closed,2025-07-15 23:13:56,2025-09-06 23:13:56,53,1
+MLS100111,772 Martinez Harbor,Freeport,16773,1006990,,3,1.1,2478,1.71,1961,Multi-Family,Roger Davis,Martin Realty,Active,2025-07-20 03:02:07,,4,3
+MLS100112,955 Caldwell Fall Apt. 318,Brookhaven,97264,1136067,,2,1.9,2700,1.01,1987,Multi-Family,Linda Macdonald,Stafford Realty,Pending,2025-04-16 19:13:55,,99,2
+MLS100113,94905 Matthews Crossing,Smithtown,48827,1416856,1378557.0,5,2.4,4354,0.24,1978,Condo,Melinda Lowe,Davidson Realty,Closed,2024-12-02 02:16:31,2025-01-31 02:16:31,60,3
+MLS100114,6092 Lisa Valleys Apt. 114,Brookhaven,51748,592443,,2,2.3,1815,1.82,1993,Townhouse,Shane Delgado,Jackson Realty,Active,2025-02-17 01:16:41,,158,1
+MLS100115,315 Rodriguez Unions Apt. 903,Babylon,21502,357609,317461.0,4,1.6,2269,0.1,1973,Condo,Rita Curry,Martin Realty,Closed,2025-07-10 08:20:23,2025-08-15 08:20:23,36,2
+MLS100116,42743 Mills Views,Smithtown,18966,392677,,1,3.3,2985,1.15,2009,Co-op,Roger Davis,Mack Realty,Active,2024-11-19 16:45:29,,247,0
+MLS100117,24899 Wilson Flats Suite 522,Brookhaven,11035,1336502,,1,2.0,4057,2.36,2006,Co-op,Michelle Richardson DVM,Welch Realty,Active,2025-02-21 02:15:09,,154,2
+MLS100118,3219 Frank Place,Brookhaven,80966,1087861,,3,1.8,3890,1.94,1970,Multi-Family,Roger Davis,Nguyen Realty,Active,2024-07-30 23:05:51,,359,3
+MLS100119,356 Kimberly Keys Apt. 679,Brookhaven,22503,1280511,,5,1.2,4835,1.45,1973,Single Family,Jeffrey Bass,Coffey Realty,Active,2025-01-05 05:27:05,,200,3
+MLS100120,41022 Pamela Neck Apt. 799,Freeport,36422,1122113,,1,1.1,1813,2.0,1969,Multi-Family,Jonathan Stevenson,Hill Realty,Active,2024-09-29 08:29:40,,298,2
+MLS100121,303 Scott Gateway Suite 498,Brookhaven,16051,1303846,1285721.0,3,2.4,3857,1.74,2003,Multi-Family,Rita Curry,Sanchez Realty,Closed,2024-10-10 05:07:05,2024-10-23 05:07:05,13,0
+MLS100122,1724 Eric Freeway Apt. 853,Hempstead,01523,484428,,2,2.2,2903,1.93,1964,Condo,Tamara Davis,Cross Realty,Active,2024-12-05 02:21:32,,232,1
+MLS100123,8030 Obrien Port,Babylon,81835,1224375,,6,3.7,4314,1.53,2018,Condo,Shane Delgado,Glass Realty,Pending,2025-02-19 10:08:50,,155,0
+MLS100124,893 Williams Hills Apt. 558,Islip,88112,1406348,1362845.0,4,1.3,4033,1.66,2008,Single Family,Tamara Davis,Ortega Realty,Closed,2024-07-26 19:04:04,2024-08-12 19:04:04,17,0
+MLS100125,3241 Lee Lights,Islip,17077,365167,,6,3.9,1660,1.67,2013,Condo,Linda Macdonald,Chandler Realty,Pending,2025-04-04 04:18:23,,111,2
+MLS100126,125 Moreno Centers Apt. 815,Smithtown,29183,1207091,,6,1.5,1304,2.38,2006,Single Family,Melinda Lowe,Kline Realty,Active,2025-07-16 22:28:42,,8,3
+MLS100127,3084 Alexis Run Apt. 548,Islip,12000,634670,,3,1.2,2452,0.32,2001,Condo,Jonathan Stevenson,White Realty,Active,2025-02-05 14:13:40,,169,2
+MLS100128,838 Jordan Turnpike Suite 858,Hempstead,46383,546886,509932.0,5,1.9,3936,0.45,1965,Condo,Michelle Richardson DVM,Hartman Realty,Closed,2025-04-14 06:49:55,2025-07-01 06:49:55,78,3
+MLS100129,49299 Hughes Square,Smithtown,76014,313982,,2,1.4,3996,2.04,2008,Co-op,Tamara Davis,Rose Realty,Pending,2024-10-21 04:14:26,,276,0
+MLS100130,26355 Graham Creek Apt. 112,Freeport,51237,953946,,3,2.4,3592,1.15,1970,Co-op,Shane Delgado,Lamb Realty,Active,2025-01-08 15:44:56,,197,3
+MLS100131,877 Courtney Brooks Apt. 554,Huntington,59177,798312,,3,1.9,2475,2.14,1956,Multi-Family,Michelle Richardson DVM,Lambert Realty,Active,2025-04-06 03:13:02,,109,0
+MLS100132,787 Christopher Isle,Smithtown,11196,1150608,1117990.0,5,2.7,2287,0.89,1984,Condo,Shane Delgado,Carter Realty,Closed,2025-06-21 12:51:00,2025-07-09 12:51:00,18,0
+MLS100133,7420 Mark Mews Apt. 329,Brookhaven,01830,634698,609726.0,6,3.5,2863,0.38,2005,Condo,Michelle Richardson DVM,Mora Realty,Closed,2024-10-21 14:17:16,2024-12-17 14:17:16,57,3
+MLS100134,267 Martin Summit Apt. 186,Smithtown,49568,603186,,2,1.8,3764,1.74,1982,Condo,Brian Harris,Anderson Realty,Withdrawn,2025-03-13 21:06:13,,133,3
+MLS100135,99813 Michael Stravenue,Huntington,69914,925891,,1,2.6,2581,0.41,1968,Condo,Brian Harris,Walker Realty,Active,2024-11-02 19:41:54,,264,3
+MLS100136,10838 Mark Alley Apt. 998,Huntington,05058,499089,,5,3.4,4895,1.06,2008,Condo,Michelle Richardson DVM,Graham Realty,Active,2025-01-03 01:13:19,,203,1
+MLS100137,5731 Jimenez Ford,Babylon,17623,1042643,,3,2.5,4365,0.82,1966,Single Family,Melinda Lowe,Rodriguez Realty,Pending,2025-04-06 13:59:12,,109,1
+MLS100138,431 Pamela Ville,Babylon,74108,687314,,5,3.6,2937,1.86,2002,Townhouse,Rita Curry,Gonzalez Realty,Withdrawn,2025-03-25 05:29:54,,121,2
+MLS100139,7312 Matthew Plains,Hempstead,33645,1323380,,2,2.8,2829,1.0,1955,Multi-Family,Jonathan Stevenson,Juarez Realty,Active,2025-01-12 01:02:33,,194,2
+MLS100140,62314 Jacob Cliffs Apt. 581,Hempstead,35908,1203653,,1,2.4,3638,2.32,1961,Single Family,Shane Delgado,Wright Realty,Pending,2024-11-18 06:04:36,,248,2
+MLS100141,1733 Aaron Roads Apt. 654,Brookhaven,09819,1122523,,4,3.6,4706,1.67,1980,Single Family,Roger Davis,Rodgers Realty,Active,2024-12-28 08:20:22,,208,1
+MLS100142,5952 John Knolls,Babylon,15812,1380282,,3,3.3,2773,2.49,2002,Single Family,Roger Davis,Foster Realty,Active,2025-03-16 13:30:06,,130,3
+MLS100143,269 Joseph Heights,Brookhaven,76829,729733,,3,3.6,3213,2.08,1961,Single Family,Roger Davis,Sparks Realty,Withdrawn,2024-12-29 02:27:47,,208,1
+MLS100144,9870 Eric Avenue,Islip,17379,371644,354983.0,2,3.9,2038,0.43,1980,Condo,Michelle Richardson DVM,Santos Realty,Closed,2025-06-19 19:37:05,2025-07-15 19:37:05,26,0
+MLS100145,384 Salinas Plaza,Babylon,06160,365093,317448.0,2,1.5,4128,1.12,1983,Townhouse,Melinda Lowe,Harris Realty,Closed,2025-01-13 16:01:31,2025-01-26 16:01:31,13,2
+MLS100146,1095 Mark Village Suite 961,Brookhaven,83779,793449,,4,3.3,1779,2.38,2019,Townhouse,Linda Macdonald,Jacobs Realty,Expired,2025-07-01 18:20:52,,23,3
+MLS100147,682 Maldonado Gardens,Smithtown,81582,1321506,,3,1.0,1259,0.89,1965,Co-op,Rita Curry,Smith Realty,Withdrawn,2024-12-26 00:36:59,,211,1
+MLS100148,1901 Brooks Glen,Smithtown,41209,1098233,,4,1.5,3721,1.72,2015,Multi-Family,Michelle Richardson DVM,Daniel Realty,Active,2024-07-27 02:20:40,,363,2
+MLS100149,44341 Smith Rue,Babylon,35800,364803,,1,2.5,2595,0.34,1991,Condo,Linda Macdonald,Merritt Realty,Withdrawn,2025-05-12 04:08:18,,73,0
+MLS100150,811 Robinson Knoll Apt. 550,Smithtown,06233,278507,,1,2.3,2499,1.17,1972,Single Family,Jonathan Stevenson,Noble Realty,Active,2025-02-26 11:45:39,,148,2
+MLS100151,6245 Krystal Walks Suite 388,Huntington,90770,268782,,3,1.8,2386,2.03,1983,Townhouse,Melinda Lowe,Rush Realty,Withdrawn,2024-09-15 18:56:15,,312,3
+MLS100152,51925 Lopez Summit Suite 507,Babylon,55036,1013249,,5,3.2,2966,0.25,1969,Townhouse,Linda Macdonald,Ramos Realty,Pending,2025-02-28 02:24:37,,147,2
+MLS100153,90601 Rebecca Neck,Brookhaven,74521,1300441,,6,1.2,1839,2.11,1985,Condo,Michelle Richardson DVM,Mccoy Realty,Pending,2024-12-28 00:17:47,,209,0
+MLS100154,8947 Guzman Forges Suite 616,Hempstead,29684,906173,,2,1.7,1548,0.43,1964,Townhouse,Jeffrey Bass,Williams Realty,Active,2025-01-20 07:18:26,,185,2
+MLS100155,0067 Andrews Valleys Suite 317,Brookhaven,84024,1257547,1213408.0,2,2.2,2373,0.57,2000,Condo,Brian Harris,Gonzalez Realty,Closed,2025-06-11 06:15:52,2025-10-03 06:15:52,114,0
+MLS100156,9976 Morrow Lodge,Freeport,66144,834294,,4,3.6,2644,0.97,2003,Condo,Rita Curry,Hartman Realty,Withdrawn,2025-05-17 12:22:15,,68,3
+MLS100157,26662 Marc Mission Suite 119,Brookhaven,58389,477598,,5,3.5,977,0.43,1970,Condo,Shane Delgado,Tran Realty,Pending,2024-08-09 02:23:13,,350,0
+MLS100158,47140 Nicole Union Suite 773,Freeport,54624,1121262,,2,3.9,2785,1.77,1967,Condo,Brian Harris,Cuevas Realty,Withdrawn,2024-08-19 11:27:14,,339,2
+MLS100159,170 Nicole Meadow,Brookhaven,78975,1461789,,5,2.3,4713,0.36,1985,Co-op,Tamara Davis,Pierce Realty,Active,2024-08-27 02:44:45,,332,2
+MLS100160,4128 Hernandez Drive Suite 336,Babylon,44373,622644,,3,3.4,2633,1.64,1981,Single Family,Jeffrey Bass,Moore Realty,Active,2024-11-06 12:47:31,,260,2
+MLS100161,895 Matthew Creek,Babylon,74306,805468,,4,2.5,3231,2.44,1978,Townhouse,Linda Macdonald,Wilson Realty,Expired,2024-09-12 16:41:23,,315,3
+MLS100162,84815 Myers Via Suite 987,Huntington,72399,945970,930956.0,6,3.7,4576,1.58,2014,Co-op,Michelle Richardson DVM,Yang Realty,Closed,2024-09-24 18:16:19,2025-01-09 18:16:19,107,1
+MLS100163,911 John Stravenue,Brookhaven,66226,1344095,,6,1.6,2767,1.12,1982,Single Family,Tamara Davis,Henry Realty,Pending,2025-05-09 07:03:19,,76,2
+MLS100164,4741 Kristin Landing Apt. 548,Brookhaven,43366,305570,294263.0,2,1.2,1956,0.33,1971,Condo,Roger Davis,Weaver Realty,Closed,2025-04-18 23:29:37,2025-05-24 23:29:37,36,1
+MLS100165,93540 Molina Freeway,Smithtown,07657,880678,867893.0,4,2.9,2104,1.08,1987,Single Family,Jeffrey Bass,Peters Realty,Closed,2025-01-10 11:48:53,2025-04-09 11:48:53,89,0
+MLS100166,27378 Garrison Avenue,Smithtown,53409,687103,,4,2.5,2091,1.3,1985,Condo,Jonathan Stevenson,Burke Realty,Active,2025-04-01 21:19:22,,114,0
+MLS100167,6427 Jon Crossroad,Smithtown,36873,993054,,4,3.2,3591,0.11,1985,Townhouse,Brian Harris,Moore Realty,Pending,2025-02-03 07:53:50,,171,3
+MLS100168,256 Stephen Crossroad Suite 202,Hempstead,03702,874908,,2,2.7,2978,0.53,2012,Townhouse,Shane Delgado,Davis Realty,Pending,2024-12-25 23:15:37,,211,0
+MLS100169,4825 Velazquez Well,Freeport,03697,1415662,,4,3.7,2996,0.35,1971,Single Family,Brian Harris,Banks Realty,Pending,2025-06-23 06:13:27,,31,2
+MLS100170,90095 Rodriguez Stream,Brookhaven,43914,1134591,,3,3.0,3424,2.3,1964,Condo,Brian Harris,Blanchard Realty,Active,2024-09-18 07:59:36,,309,1
+MLS100171,8723 Moore Wells Apt. 865,Brookhaven,52039,998933,,5,2.5,2605,2.44,1982,Condo,Rita Curry,Avery Realty,Pending,2025-05-23 08:10:35,,62,0
+MLS100172,507 Kim Well Suite 708,Islip,88931,825849,793957.0,5,1.8,3408,2.41,1950,Condo,Shane Delgado,Acosta Realty,Closed,2025-05-02 07:28:33,2025-06-19 07:28:33,48,1
+MLS100173,68901 Anderson Drives Apt. 588,Brookhaven,40526,1045403,,5,1.2,3831,1.77,1994,Townhouse,Melinda Lowe,Bell Realty,Active,2025-04-08 07:33:09,,107,0
+MLS100174,9335 Kathryn Ville,Hempstead,04286,591826,,6,3.3,3253,0.56,1994,Single Family,Rita Curry,Bauer Realty,Active,2025-04-07 04:50:47,,108,1
+MLS100175,11327 Taylor Port,Islip,85795,542105,,2,1.2,1178,1.99,1952,Single Family,Melinda Lowe,Moran Realty,Active,2025-07-15 11:50:36,,9,3
+MLS100176,221 Richard Alley Apt. 203,Hempstead,89249,597066,,6,2.2,4303,2.26,1963,Co-op,Shane Delgado,Reid Realty,Active,2024-10-01 10:21:54,,296,2
+MLS100177,7601 Larsen Drives Suite 670,Babylon,88222,611978,,3,3.4,4700,0.63,2018,Co-op,Linda Macdonald,Romero Realty,Active,2025-03-08 07:42:32,,138,3
+MLS100178,3798 Hannah Keys,Huntington,32586,487831,461796.0,3,2.5,4518,0.23,1955,Co-op,Jeffrey Bass,Atkinson Realty,Closed,2025-05-07 04:06:53,2025-06-14 04:06:53,38,0
+MLS100179,658 Jared Flat Apt. 938,Brookhaven,90041,318317,,4,2.9,2098,0.36,1993,Co-op,Brian Harris,Horton Realty,Active,2025-03-11 08:11:02,,135,1
+MLS100180,75186 Misty Track,Huntington,70106,843655,,6,2.8,2107,1.24,1970,Single Family,Linda Macdonald,Nguyen Realty,Pending,2024-11-27 03:53:42,,239,3
+MLS100181,484 James Hollow Suite 125,Freeport,13174,283510,,6,1.5,3735,0.67,2005,Condo,Melinda Lowe,Duncan Realty,Active,2025-05-20 03:07:32,,65,0
+MLS100182,5176 John Streets,Islip,07927,1393266,1373163.0,4,1.9,3207,0.8,1982,Multi-Family,Roger Davis,Fisher Realty,Closed,2025-02-27 02:33:30,2025-05-29 02:33:30,91,3
+MLS100183,920 Beth Isle,Brookhaven,99812,854072,,1,2.6,3550,1.43,1987,Multi-Family,Brian Harris,Poole Realty,Active,2024-08-20 17:53:55,,338,1
+MLS100184,1683 Shannon Turnpike,Brookhaven,97509,770264,,2,3.4,4159,1.6,1987,Townhouse,Linda Macdonald,Rodriguez Realty,Active,2025-07-23 19:48:02,,1,2
+MLS100185,709 Mitchell Burg Apt. 392,Islip,41343,1093052,1047271.0,2,2.9,2247,0.66,1955,Single Family,Tamara Davis,Smith Realty,Closed,2024-11-28 16:36:06,2025-01-17 16:36:06,50,1
+MLS100186,886 Laurie Loop Apt. 080,Hempstead,38178,801049,,6,1.9,833,1.69,1991,Single Family,Michelle Richardson DVM,Burns Realty,Active,2024-11-16 08:11:07,,250,0
+MLS100187,7650 Joshua Vista Apt. 669,Hempstead,31731,972783,937924.0,3,1.2,4288,1.35,1965,Townhouse,Shane Delgado,Schaefer Realty,Closed,2025-05-02 15:01:05,2025-07-16 15:01:05,75,0
+MLS100188,3530 Noble Motorway,Islip,13675,1083411,,2,3.5,3364,1.63,1961,Co-op,Rita Curry,Wagner Realty,Pending,2025-07-14 11:38:25,,10,3
+MLS100189,55327 Cunningham Haven Suite 599,Babylon,32046,1409925,1390537.0,3,1.2,3672,1.79,2017,Townhouse,Brian Harris,Reese Realty,Closed,2025-01-21 13:48:26,2025-05-14 13:48:26,113,0
+MLS100190,37922 David Radial,Brookhaven,49675,477538,,3,2.4,3926,1.68,1995,Condo,Melinda Lowe,Peters Realty,Active,2025-05-02 09:43:02,,83,2
+MLS100191,84776 Hughes Square,Babylon,29049,530026,,6,1.4,2689,2.31,2006,Townhouse,Brian Harris,Mcdowell Realty,Active,2025-04-26 06:42:11,,89,3
+MLS100192,124 Lawrence Park,Smithtown,07108,1077139,,3,3.1,3322,1.29,2016,Townhouse,Shane Delgado,Cunningham Realty,Active,2025-07-06 22:06:09,,18,3
+MLS100193,81982 Conley Avenue Suite 237,Freeport,95139,474669,429441.0,4,2.5,4553,0.76,1971,Condo,Jonathan Stevenson,Clark Realty,Closed,2025-07-21 17:19:15,2025-09-28 17:19:15,69,3
+MLS100194,273 Ralph Turnpike Suite 800,Babylon,83657,776262,763729.0,6,3.2,4514,1.28,1965,Single Family,Jeffrey Bass,Rodgers Realty,Closed,2025-03-21 16:33:54,2025-07-05 16:33:54,106,1
+MLS100195,2470 Lowe Points,Smithtown,42778,1077109,,3,3.9,3125,1.55,2020,Co-op,Linda Macdonald,Smith Realty,Pending,2024-12-28 04:03:25,,208,3
+MLS100196,79265 William Cove,Brookhaven,57164,1164158,,2,1.1,4508,2.18,2012,Condo,Brian Harris,Wright Realty,Active,2024-08-25 20:16:54,,333,1
+MLS100197,08741 Dean Locks,Babylon,95849,819061,,2,1.7,3152,1.37,1965,Multi-Family,Jeffrey Bass,Jones Realty,Active,2024-12-31 05:15:23,,205,2
+MLS100198,126 Stephanie Drives,Hempstead,93312,1005089,,3,3.4,2034,0.19,1964,Townhouse,Brian Harris,Garcia Realty,Active,2025-04-20 00:27:58,,96,3
+MLS100199,886 Patterson Green,Freeport,67256,526090,,4,1.7,4833,1.83,2012,Condo,Rita Curry,Hudson Realty,Pending,2025-01-13 18:38:51,,192,3
+MLS100200,80602 Jennifer Row,Freeport,94754,1010705,,4,1.3,1185,2.1,1970,Co-op,Brian Harris,Woods Realty,Active,2025-05-13 23:54:49,,72,3
+MLS100201,12753 Jeffrey Greens Apt. 161,Freeport,36580,1141167,,1,2.8,4337,0.83,1999,Co-op,Melinda Lowe,Reynolds Realty,Pending,2025-01-25 10:43:27,,180,3
+MLS100202,613 Louis Stravenue Apt. 900,Islip,91727,1334959,,4,3.8,1223,0.74,2021,Multi-Family,Brian Harris,Williams Realty,Active,2024-08-19 01:00:53,,340,3
+MLS100203,32588 Cheryl Mill,Babylon,87360,1383630,,4,3.6,1863,0.63,2009,Co-op,Shane Delgado,Kennedy Realty,Pending,2025-06-01 03:14:21,,53,1
+MLS100204,9977 Kevin Key Suite 099,Hempstead,20952,251948,211063.0,6,3.2,3907,1.21,2000,Multi-Family,Brian Harris,Santos Realty,Closed,2024-09-08 15:45:37,2024-11-03 15:45:37,56,2
+MLS100205,0041 Mary Crest,Huntington,86947,1051992,,5,1.9,924,1.49,1969,Co-op,Michelle Richardson DVM,Knapp Realty,Pending,2025-06-09 08:10:44,,45,1
+MLS100206,974 Erik Way Suite 543,Smithtown,46680,583779,,3,3.6,4412,0.41,1983,Single Family,Tamara Davis,Joseph Realty,Pending,2025-01-01 08:49:35,,204,2
+MLS100207,299 Sharp Stream Apt. 476,Smithtown,24739,1294349,,6,1.6,4333,0.17,2021,Townhouse,Michelle Richardson DVM,Rocha Realty,Active,2024-10-29 11:07:56,,268,2
+MLS100208,16062 Steven Junction Suite 199,Islip,15779,1048713,1027406.0,5,2.6,4894,1.99,2018,Condo,Tamara Davis,Fuller Realty,Closed,2024-08-27 22:54:17,2024-12-23 22:54:17,118,2
+MLS100209,4486 Crystal Ramp Suite 560,Babylon,29349,838340,,3,3.4,4934,1.3,1983,Condo,Rita Curry,Myers Realty,Active,2025-05-27 21:37:35,,58,2
+MLS100210,85465 Carter Turnpike,Freeport,09298,1054856,,4,1.8,3428,1.5,1992,Condo,Michelle Richardson DVM,Bailey Realty,Active,2025-05-14 00:14:54,,72,0
+MLS100211,208 Ellison Extension Apt. 065,Babylon,47319,1037937,,6,3.3,1381,1.59,2000,Townhouse,Jeffrey Bass,Jenkins Realty,Active,2024-12-27 04:15:17,,209,2
+MLS100212,873 Michael Lodge,Brookhaven,38510,1126533,,5,3.1,1419,0.74,1987,Condo,Linda Macdonald,Cline Realty,Active,2025-04-17 15:08:55,,98,0
+MLS100213,689 David Hills Suite 619,Freeport,19678,686584,,2,1.6,2304,2.19,1989,Co-op,Linda Macdonald,Spencer Realty,Active,2024-12-02 00:40:03,,235,2
+MLS100214,2518 Melinda Gardens,Freeport,93660,767880,,3,3.1,3795,0.58,1972,Condo,Roger Davis,Martin Realty,Pending,2024-09-22 05:54:55,,305,0
+MLS100215,7761 Marquez Fords Suite 640,Smithtown,71555,954654,,2,3.1,4058,2.14,1972,Single Family,Roger Davis,Martinez Realty,Pending,2024-12-12 17:56:55,,224,1
+MLS100216,930 Stacey Tunnel Apt. 461,Babylon,47810,1345078,,2,2.3,3577,1.46,1956,Condo,Linda Macdonald,Wiggins Realty,Active,2024-09-25 17:44:49,,302,1
+MLS100217,123 Janet Road,Hempstead,86871,989076,,5,1.3,3483,2.26,2020,Townhouse,Melinda Lowe,Wilson Realty,Pending,2024-12-04 12:06:54,,232,2
+MLS100218,09710 Watson Hill,Brookhaven,13540,519467,,6,2.0,2051,0.97,2011,Single Family,Shane Delgado,Russell Realty,Pending,2025-02-10 01:09:14,,165,1
+MLS100219,88720 Valerie Roads Suite 577,Huntington,80607,793450,,4,1.9,4762,2.33,1951,Multi-Family,Brian Harris,Jordan Realty,Active,2024-07-30 12:26:45,,359,0
+MLS100220,3577 Schwartz Harbors Suite 879,Hempstead,66553,434869,,1,3.3,3908,0.72,2009,Condo,Jonathan Stevenson,Owens Realty,Active,2024-08-13 22:31:50,,345,3
+MLS100221,6592 Allison Mission,Freeport,45505,749107,,1,3.8,3740,1.76,1994,Condo,Melinda Lowe,Patton Realty,Pending,2024-08-31 07:36:14,,327,1
+MLS100222,23245 Young Manors Suite 489,Babylon,12165,975722,,2,2.8,1844,1.76,2013,Condo,Roger Davis,Ward Realty,Active,2025-05-06 08:57:49,,79,1
+MLS100223,595 John Orchard Suite 915,Freeport,84460,1318925,1304308.0,3,1.6,4057,1.0,2015,Condo,Rita Curry,Benjamin Realty,Closed,2024-09-28 14:07:01,2025-01-23 14:07:01,117,1
+MLS100224,203 Cynthia Lodge,Islip,68892,779925,738870.0,2,2.5,4943,1.95,1994,Multi-Family,Michelle Richardson DVM,Wolf Realty,Closed,2025-02-20 14:29:36,2025-06-11 14:29:36,111,2
+MLS100225,034 Julia Heights Suite 556,Islip,99326,743087,,2,2.0,1103,0.96,1986,Townhouse,Tamara Davis,Torres Realty,Pending,2025-03-22 23:23:53,,124,2
+MLS100226,95556 Sean Mills,Hempstead,23787,1483240,,6,3.9,2459,1.89,2004,Single Family,Shane Delgado,Foster Realty,Active,2025-05-25 23:22:53,,60,1
+MLS100227,82901 Coleman Meadows,Huntington,26585,1466207,1451086.0,4,1.7,4420,0.66,1972,Single Family,Tamara Davis,Reese Realty,Closed,2025-05-03 06:20:12,2025-08-17 06:20:12,106,2
+MLS100228,407 Christopher Road Suite 374,Smithtown,06167,1211190,,6,2.3,1676,0.31,2006,Co-op,Melinda Lowe,Macias Realty,Active,2025-05-11 00:40:45,,75,1
+MLS100229,7938 Hines Green,Huntington,91878,610302,,1,1.9,2126,1.44,1974,Townhouse,Jonathan Stevenson,Bryant Realty,Withdrawn,2024-08-24 22:50:12,,334,3
+MLS100230,11181 Tyler Corners,Islip,50008,598083,586318.0,3,2.1,1530,0.55,2019,Single Family,Shane Delgado,Cuevas Realty,Closed,2025-05-28 13:50:59,2025-09-12 13:50:59,107,0
+MLS100231,4301 Mitchell Parks Apt. 685,Hempstead,69184,1258337,,3,2.8,4192,0.16,1961,Townhouse,Linda Macdonald,Morton Realty,Active,2025-05-14 07:39:31,,71,3
+MLS100232,26943 Dudley Gateway Suite 234,Hempstead,67939,759884,,1,1.2,3053,0.16,1983,Townhouse,Tamara Davis,Jones Realty,Pending,2025-02-21 07:51:27,,153,1
+MLS100233,32086 Jack Center,Brookhaven,44750,444618,,4,3.5,3195,1.94,1955,Condo,Shane Delgado,Gill Realty,Expired,2024-08-18 13:46:55,,340,3
+MLS100234,879 Carroll Falls,Smithtown,44474,643774,,5,3.8,3560,2.17,2011,Condo,Jeffrey Bass,Higgins Realty,Expired,2025-03-11 03:27:14,,135,2
+MLS100235,874 Harold Oval Apt. 327,Brookhaven,42639,1042939,,5,3.5,4723,0.61,2004,Townhouse,Tamara Davis,Russell Realty,Active,2025-03-25 14:10:04,,121,3
+MLS100236,912 Joshua Branch,Huntington,80684,391557,371458.0,5,2.0,2079,1.46,1982,Co-op,Jonathan Stevenson,Hunter Realty,Closed,2025-06-09 00:59:46,2025-09-14 00:59:46,97,1
+MLS100237,315 Potter Vista,Huntington,90114,491629,476982.0,6,3.1,1408,1.73,1958,Single Family,Linda Macdonald,Guerra Realty,Closed,2024-11-13 03:06:22,2025-01-07 03:06:22,55,2
+MLS100238,1435 Caitlyn Forge Suite 842,Freeport,98423,1306937,1290062.0,6,4.0,4137,1.91,1958,Townhouse,Jonathan Stevenson,Kelly Realty,Closed,2025-03-01 12:29:39,2025-03-17 12:29:39,16,3
+MLS100239,03846 Kathryn Motorway Apt. 491,Smithtown,71559,834432,790936.0,6,3.3,1780,1.82,1992,Single Family,Rita Curry,Porter Realty,Closed,2025-01-28 13:02:12,2025-05-01 13:02:12,93,1
+MLS100240,563 Bates Causeway Apt. 993,Smithtown,17703,444825,,5,2.7,2474,1.88,2003,Co-op,Tamara Davis,Jones Realty,Active,2025-04-26 17:12:31,,89,3
+MLS100241,06959 Kathleen Neck,Smithtown,32278,1263744,1247838.0,1,2.2,3224,0.77,2013,Single Family,Jeffrey Bass,Tyler Realty,Closed,2025-05-14 18:39:28,2025-08-02 18:39:28,80,1
+MLS100242,381 Daniel Pike Suite 061,Smithtown,92156,1000597,986279.0,1,1.5,2250,1.35,1999,Single Family,Brian Harris,Miller Realty,Closed,2025-04-29 13:30:28,2025-07-31 13:30:28,93,3
+MLS100243,837 Mary Villages Apt. 032,Huntington,24249,269611,,1,3.4,1371,1.14,1975,Condo,Tamara Davis,Davis Realty,Expired,2024-08-08 15:06:37,,350,1
+MLS100244,94897 Villa Glen Apt. 808,Babylon,85535,1053473,1021883.0,4,1.1,1073,0.68,1976,Townhouse,Jonathan Stevenson,Rodriguez Realty,Closed,2024-09-09 01:37:25,2024-10-17 01:37:25,38,1
+MLS100245,11112 Carney Gardens Apt. 737,Huntington,63493,718357,,1,1.3,2756,0.4,2016,Co-op,Melinda Lowe,Murphy Realty,Active,2024-09-13 15:17:44,,314,1
+MLS100246,3427 Adams Valley Suite 941,Freeport,23764,709763,,3,3.5,1968,0.94,1995,Single Family,Linda Macdonald,Smith Realty,Pending,2025-06-21 03:17:42,,33,2
+MLS100247,1084 Shirley Run,Hempstead,84146,1305738,,1,1.9,2816,0.24,2016,Co-op,Linda Macdonald,Perez Realty,Active,2024-09-29 05:35:23,,298,1
+MLS100248,85567 Gavin Camp Apt. 680,Freeport,85336,966839,953289.0,3,3.2,3362,1.02,2017,Single Family,Jeffrey Bass,Bruce Realty,Closed,2025-05-21 23:07:01,2025-07-27 23:07:01,67,1
+MLS100249,212 Ponce Union Apt. 423,Freeport,47175,760061,,1,3.9,4626,1.85,1989,Condo,Shane Delgado,Black Realty,Active,2025-03-21 13:50:51,,125,2
+MLS100250,3841 Jennifer Common Apt. 947,Hempstead,01432,526813,507016.0,2,3.5,3646,1.39,1962,Single Family,Brian Harris,Stevenson Realty,Closed,2025-06-20 03:56:14,2025-07-20 03:56:14,30,0
+MLS100251,155 Mendoza Fort Suite 454,Smithtown,32338,1053738,,1,3.6,1180,0.86,1977,Multi-Family,Jeffrey Bass,Campbell Realty,Active,2025-05-10 19:32:59,,75,3
+MLS100252,4627 Gregory Lights,Freeport,90850,1339975,,1,1.9,2378,0.39,2012,Condo,Michelle Richardson DVM,Moon Realty,Withdrawn,2025-02-17 14:24:50,,157,1
+MLS100253,21923 Wright Light Apt. 156,Brookhaven,78769,1247749,1220578.0,2,3.6,1009,1.88,2016,Multi-Family,Roger Davis,Lyons Realty,Closed,2025-04-17 14:02:44,2025-04-28 14:02:44,11,2
+MLS100254,1623 Peterson Village,Huntington,97763,826817,789930.0,4,1.8,2390,0.21,1992,Multi-Family,Shane Delgado,Harris Realty,Closed,2025-06-19 11:39:21,2025-07-20 11:39:21,31,0
+MLS100255,73141 Toni Centers Apt. 242,Islip,36119,1250246,,2,3.7,2986,1.45,1997,Condo,Tamara Davis,Ramirez Realty,Pending,2025-02-23 10:13:16,,151,0
+MLS100256,69489 Newton Summit,Hempstead,69240,1286231,,3,3.1,2254,0.69,1956,Condo,Linda Macdonald,Bolton Realty,Expired,2025-01-20 20:58:58,,185,3
+MLS100257,24989 Hopkins Drive Apt. 985,Babylon,40731,1483344,,2,1.2,1797,1.19,1969,Co-op,Jonathan Stevenson,Smith Realty,Active,2025-03-02 01:40:09,,145,0
+MLS100258,020 Stewart Isle,Smithtown,91753,605060,,5,3.5,2150,2.17,2015,Townhouse,Brian Harris,Rios Realty,Pending,2024-12-26 14:13:28,,210,1
+MLS100259,88304 Jones Forest,Hempstead,00614,831904,,5,4.0,4103,2.46,2011,Townhouse,Rita Curry,Davis Realty,Active,2024-11-08 20:07:27,,258,1
+MLS100260,86129 David Row Suite 803,Hempstead,48265,535627,,1,3.0,3157,0.87,1973,Townhouse,Melinda Lowe,Anthony Realty,Active,2025-01-03 18:33:20,,202,0
+MLS100261,897 Joseph Dam,Huntington,73862,988016,,1,2.0,3300,1.74,2014,Single Family,Tamara Davis,Lopez Realty,Active,2025-06-30 23:32:14,,24,0
+MLS100262,229 Arnold Extensions,Islip,88829,1269295,1225930.0,2,2.8,3896,1.4,1968,Co-op,Rita Curry,Sanchez Realty,Closed,2024-11-26 17:14:02,2024-12-28 17:14:02,32,0
+MLS100263,906 Wise Summit,Babylon,44744,367465,,5,1.7,3693,0.14,1976,Co-op,Shane Delgado,Perez Realty,Active,2025-03-31 12:38:55,,115,2
+MLS100264,4375 Jones Walk Apt. 398,Smithtown,43954,337838,,5,2.7,3218,0.5,1951,Condo,Rita Curry,Morrison Realty,Active,2025-02-25 10:26:16,,149,2
+MLS100265,17352 Lee Parks,Huntington,22998,1219616,1175792.0,4,1.5,834,0.43,1962,Co-op,Jeffrey Bass,Abbott Realty,Closed,2024-12-06 04:43:39,2025-01-20 04:43:39,45,0
+MLS100266,1430 Bird Shoals,Babylon,84864,672244,661509.0,1,3.7,3663,0.52,1991,Co-op,Jeffrey Bass,Franklin Realty,Closed,2025-05-31 13:28:14,2025-06-29 13:28:14,29,2
+MLS100267,53865 John Squares,Hempstead,75731,1159023,1147878.0,6,2.5,4353,0.2,2002,Townhouse,Linda Macdonald,Maxwell Realty,Closed,2024-10-24 23:59:08,2025-01-10 23:59:08,78,0
+MLS100268,181 Kim Shoals,Smithtown,38173,501538,,2,3.3,1871,0.42,2007,Multi-Family,Tamara Davis,Lopez Realty,Active,2025-05-07 07:07:47,,78,2
+MLS100269,02247 Cobb Mall,Hempstead,53254,1023684,,3,2.8,1697,1.06,1966,Condo,Shane Delgado,Mann Realty,Pending,2025-03-06 21:20:01,,140,1
+MLS100270,64880 Alejandro Lake Apt. 338,Brookhaven,25074,1072321,,6,3.0,990,0.49,2020,Multi-Family,Jonathan Stevenson,Thomas Realty,Active,2024-10-05 09:21:50,,292,1
+MLS100271,7297 Wright Track Apt. 501,Huntington,75615,1424271,,1,2.7,2319,0.82,2001,Co-op,Michelle Richardson DVM,Logan Realty,Pending,2024-09-23 09:23:07,,304,0
+MLS100272,71676 Davis Lock,Freeport,06522,809925,,6,2.4,3531,0.11,2014,Multi-Family,Jeffrey Bass,Howard Realty,Withdrawn,2024-11-26 03:14:34,,240,0
+MLS100273,587 Jones Ridge Apt. 909,Freeport,98358,602036,,4,4.0,2509,0.96,2021,Multi-Family,Melinda Lowe,Hunter Realty,Active,2025-07-18 17:51:21,,6,0
+MLS100274,65010 Lisa Loop,Hempstead,84249,455906,,1,2.3,2148,2.17,1959,Multi-Family,Tamara Davis,Myers Realty,Active,2024-10-26 14:42:35,,271,0
+MLS100275,1938 Roberto Lights,Smithtown,06090,774542,725184.0,3,1.3,2847,1.31,1989,Condo,Jonathan Stevenson,Fuller Realty,Closed,2025-01-23 19:22:26,2025-04-26 19:22:26,93,1
+MLS100276,607 Gonzales Pass,Brookhaven,20881,606908,595117.0,2,3.9,3136,1.97,1960,Co-op,Shane Delgado,Stone Realty,Closed,2025-05-22 09:13:03,2025-09-18 09:13:03,119,2
+MLS100277,5567 David Run,Hempstead,59143,353086,338981.0,5,2.6,3039,1.27,1977,Multi-Family,Brian Harris,Mccoy Realty,Closed,2024-08-16 08:40:58,2024-10-22 08:40:58,67,1
+MLS100278,0292 Sue Walks,Smithtown,24770,452192,,1,1.7,3522,2.39,1980,Condo,Melinda Lowe,Mitchell Realty,Pending,2024-09-18 16:26:33,,309,3
+MLS100279,14473 Alexis Stravenue Suite 889,Brookhaven,40792,1089187,,3,1.0,2555,1.29,2013,Condo,Roger Davis,Wilkinson Realty,Active,2025-07-10 18:42:13,,14,2
+MLS100280,67121 Moore Court,Hempstead,69121,325411,,4,1.3,4022,2.26,1956,Townhouse,Michelle Richardson DVM,Burton Realty,Pending,2025-05-27 21:53:15,,58,1
+MLS100281,422 Hernandez Circles Suite 086,Smithtown,05237,1319311,,1,2.0,1355,0.54,2019,Multi-Family,Roger Davis,Jackson Realty,Pending,2024-08-21 22:27:47,,337,2
+MLS100282,283 Matthew Corners,Huntington,97450,793075,,3,3.8,2788,2.15,2020,Co-op,Melinda Lowe,Johnson Realty,Active,2025-05-24 12:31:52,,61,2
+MLS100283,949 Wilson Field Suite 568,Huntington,39250,939760,,3,2.3,1938,0.8,1990,Condo,Michelle Richardson DVM,Gomez Realty,Pending,2025-01-03 16:30:29,,202,1
+MLS100284,500 Ferguson Bypass,Babylon,55062,791767,,6,3.1,1185,2.11,2004,Single Family,Roger Davis,Jones Realty,Active,2024-10-03 03:51:09,,294,0
+MLS100285,316 Brittney Villages,Huntington,11558,290359,,3,3.0,4182,1.74,1977,Co-op,Linda Macdonald,Carlson Realty,Pending,2025-01-29 18:13:54,,176,3
+MLS100286,05651 Carl Shoal Suite 688,Smithtown,30891,1176305,1155840.0,1,3.0,4665,2.29,1998,Co-op,Jeffrey Bass,Nicholson Realty,Closed,2025-05-09 19:45:53,2025-06-23 19:45:53,45,0
+MLS100287,0375 Anna Hills Suite 670,Brookhaven,73666,488868,,4,3.5,2444,0.89,1952,Condo,Roger Davis,Garcia Realty,Pending,2025-06-14 20:38:46,,40,2
+MLS100288,447 Jessica Common,Brookhaven,19173,429764,,4,3.8,1400,2.44,2016,Single Family,Jeffrey Bass,Ryan Realty,Pending,2024-10-07 21:44:36,,290,1
+MLS100289,01968 Jason Cape Apt. 777,Hempstead,18921,567076,,2,3.4,3539,2.11,2016,Co-op,Shane Delgado,Davis Realty,Active,2024-12-31 23:46:28,,205,1
+MLS100290,434 Briana Harbors,Huntington,70801,550884,,2,3.8,1988,0.79,2015,Condo,Brian Harris,Lopez Realty,Pending,2024-10-11 22:00:00,,286,2
+MLS100291,8108 Browning Expressway,Smithtown,72103,526297,,5,3.2,1536,1.49,1985,Co-op,Melinda Lowe,Hamilton Realty,Active,2024-12-14 16:34:13,,222,0
+MLS100292,98884 Patrick Ways,Islip,64286,253740,,5,3.6,2941,1.44,2006,Multi-Family,Jonathan Stevenson,Roberts Realty,Pending,2025-01-11 19:24:32,,194,0
+MLS100293,51056 Burch Throughway,Islip,35928,927221,,1,1.2,1791,0.67,2002,Condo,Shane Delgado,Todd Realty,Active,2025-02-03 16:44:25,,171,2
+MLS100294,574 Robinson Oval,Freeport,19728,1454070,,2,1.5,4408,0.74,1989,Single Family,Melinda Lowe,Sanchez Realty,Pending,2025-01-02 18:05:36,,203,3
+MLS100295,762 Christina Highway,Huntington,94860,1470850,,1,3.0,3147,0.31,2008,Co-op,Shane Delgado,Kelley Realty,Pending,2025-06-20 04:46:05,,34,0
+MLS100296,67006 Snow Plain Apt. 014,Freeport,19182,305900,,4,3.8,1154,0.33,1951,Multi-Family,Brian Harris,Hammond Realty,Active,2024-11-17 13:33:45,,249,0
+MLS100297,4105 Albert Curve,Babylon,70425,841478,,4,1.3,4632,2.1,1989,Multi-Family,Rita Curry,Carpenter Realty,Pending,2024-11-11 02:16:16,,256,3
+MLS100298,7600 Herring Spring Suite 588,Freeport,08024,1499112,,1,1.8,2575,0.23,1990,Co-op,Rita Curry,Jimenez Realty,Withdrawn,2024-10-17 05:50:30,,280,1
+MLS100299,7531 Stacey Shoal Apt. 816,Smithtown,25207,1077275,1046012.0,2,3.4,4013,1.2,1978,Condo,Shane Delgado,Krause Realty,Closed,2025-01-30 11:09:04,2025-04-21 11:09:04,81,3
