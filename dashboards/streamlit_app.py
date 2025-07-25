@@ -86,6 +86,11 @@ with tabs[2]:
     merged["cost_per_closed_deal"] = merged["ad_spend"] / merged["closed_deals"]
     merged = merged[merged["closed_deals"] > 0]
 
+    # Simulate revenue per closed deal
+    merged["net_commission"] = merged["closed_deals"] * 5000  # assume $5k per deal
+    merged["roi"] = (merged["net_commission"] - merged["ad_spend"]) / merged["ad_spend"]
+
+    # 📊 Bar chart: CPCD
     st.altair_chart(
         alt.Chart(merged).mark_bar().encode(
             x=alt.X("utm_campaign:N", title="Campaign"),
@@ -95,8 +100,24 @@ with tabs[2]:
         use_container_width=True
     )
 
-    st.dataframe(merged[["utm_campaign", "platform", "leads_generated", "closed_deals", "ad_spend", "cost_per_closed_deal"]])
+    # 📈 Bubble Chart: ROI vs CPCD
+    st.subheader("ROI vs Cost per Closed Deal")
+    st.altair_chart(
+        alt.Chart(merged).mark_circle(size=120).encode(
+            x=alt.X("cost_per_closed_deal:Q"),
+            y=alt.Y("roi:Q", title="ROI"),
+            size="closed_deals:Q",
+            color="platform:N",
+            tooltip=["utm_campaign", "platform", "ad_spend", "closed_deals", "net_commission", "roi"]
+        ).properties(width=700),
+        use_container_width=True
+    )
 
+    # 📋 Table view
+    st.dataframe(merged[[
+        "utm_campaign", "platform", "leads_generated", "closed_deals",
+        "ad_spend", "cost_per_closed_deal", "net_commission", "roi"
+    ]])
 # ---------- TERRITORY INSIGHTS ----------
 with tabs[3]:
     st.header("🌍 Territory Insights")
